@@ -1,0 +1,17 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output (се креира во Docker)
+build
+
+# IDE / OS
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore

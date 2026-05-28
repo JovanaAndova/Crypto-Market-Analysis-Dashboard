@@ -1,0 +1,984 @@
+coin_id,signal_1D,score_1D,signal_1W,score_1W,signal_1M,score_1M,symbol,name
+bitcoin,BUY,4.0,HOLD,0.0,HOLD,0.0,BTC,Bitcoin
+ethereum,BUY,6.0,HOLD,1.0,HOLD,0.0,ETH,Ethereum
+ripple,BUY,6.0,HOLD,1.0,HOLD,0.0,XRP,XRP
+binancecoin,BUY,3.0,HOLD,2.0,HOLD,0.0,BNB,BNB
+solana,BUY,4.0,HOLD,0.0,HOLD,0.0,SOL,Solana
+tron,BUY,3.0,HOLD,2.0,HOLD,0.0,TRX,TRON
+staked-ether,BUY,5.0,HOLD,1.0,HOLD,0.0,STETH,Lido Staked Ether
+dogecoin,BUY,4.0,HOLD,0.0,HOLD,0.0,DOGE,Dogecoin
+figure-heloc,BUY,3.0,HOLD,0.0,HOLD,0.0,FIGR_HELOC,Figure Heloc
+cardano,BUY,3.0,HOLD,-1.0,HOLD,0.0,ADA,Cardano
+bitcoin-cash,HOLD,2.0,HOLD,2.0,HOLD,0.0,BCH,Bitcoin Cash
+wrapped-steth,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Wrapped stETH
+whitebit,BUY,3.0,BUY,3.0,HOLD,0.0,WBT,WhiteBIT Coin
+wrapped-beacon-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,WBETH,Wrapped Beacon ETH
+wrapped-bitcoin,BUY,4.0,HOLD,0.0,HOLD,0.0,WBTC,Wrapped Bitcoin
+usds,HOLD,-1.0,HOLD,2.0,HOLD,0.0,USDS,USDS
+wrapped-eeth,BUY,5.0,HOLD,1.0,HOLD,0.0,WEETH,Wrapped eETH
+chainlink,BUY,4.0,HOLD,1.0,HOLD,0.0,LINK,Chainlink
+binance-bridged-usdt-bnb-smart-chain,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,BSC-USD,Binance Bridged USDT (BNB Smart Chain)
+leo-token,HOLD,0.0,SELL,-3.0,HOLD,0.0,LEO,LEO Token
+weth,BUY,6.0,HOLD,2.0,HOLD,0.0,WETH,WETH
+monero,BUY,3.0,HOLD,2.0,HOLD,0.0,XMR,Monero
+zcash,BUY,3.0,BUY,3.0,HOLD,0.0,ZEC,Zcash
+stellar,BUY,4.0,HOLD,1.0,HOLD,0.0,XLM,Stellar
+sui,BUY,5.0,HOLD,2.0,HOLD,0.0,SUI,Sui
+coinbase-wrapped-btc,BUY,4.0,HOLD,0.0,HOLD,0.0,CBBTC,Coinbase Wrapped BTC
+hyperliquid,HOLD,2.0,HOLD,-1.0,HOLD,0.0,HYPE,Hyperliquid
+ethena-usde,BUY,4.0,BUY,3.0,HOLD,0.0,USDE,Ethena USDe
+litecoin,BUY,3.0,HOLD,-2.0,HOLD,0.0,LTC,Litecoin
+avalanche-2,BUY,3.0,HOLD,1.0,HOLD,0.0,AVAX,Avalanche
+hedera-hashgraph,HOLD,2.0,HOLD,-2.0,HOLD,0.0,HBAR,Hedera
+shiba-inu,BUY,5.0,HOLD,2.0,HOLD,0.0,SHIB,Shiba Inu
+canton-network,HOLD,0.0,HOLD,0.0,HOLD,0.0,CC,Canton
+susds,BUY,4.0,BUY,4.0,HOLD,0.0,SUSDS,sUSDS
+world-liberty-financial,HOLD,2.0,HOLD,0.0,HOLD,0.0,WLFI,World Liberty Financial
+usdt0,HOLD,0.0,HOLD,-1.0,HOLD,0.0,USDT0,USDT0
+the-open-network,BUY,4.0,HOLD,2.0,HOLD,0.0,TON,Toncoin
+crypto-com-chain,BUY,4.0,HOLD,0.0,HOLD,0.0,CRO,Cronos
+paypal-usd,HOLD,2.0,BUY,3.0,HOLD,0.0,PYUSD,PayPal USD
+uniswap,HOLD,1.0,HOLD,0.0,HOLD,0.0,UNI,Uniswap
+ethena-staked-usde,HOLD,0.0,HOLD,1.0,HOLD,0.0,SUSDE,Ethena Staked USDe
+polkadot,BUY,4.0,HOLD,-1.0,HOLD,0.0,DOT,Polkadot
+usd1-wlfi,BUY,3.0,BUY,4.0,HOLD,0.0,USD1,USD1
+mantle,HOLD,1.0,HOLD,0.0,HOLD,0.0,MNT,Mantle
+rain,BUY,3.0,HOLD,0.0,HOLD,0.0,RAIN,Rain
+memecore,HOLD,2.0,HOLD,0.0,HOLD,0.0,M,MemeCore
+pepe,BUY,4.0,HOLD,2.0,HOLD,0.0,PEPE,Pepe
+bittensor,HOLD,2.0,HOLD,0.0,HOLD,0.0,TAO,Bittensor
+aave,BUY,3.0,HOLD,-2.0,HOLD,0.0,AAVE,Aave
+bitget-token,BUY,3.0,HOLD,-1.0,HOLD,0.0,BGB,Bitget Token
+okb,HOLD,1.0,HOLD,-1.0,HOLD,0.0,OKB,OKB
+tether-gold,BUY,4.0,HOLD,2.0,HOLD,0.0,XAUT,Tether Gold
+near,HOLD,2.0,HOLD,-2.0,HOLD,0.0,NEAR,NEAR Protocol
+falcon-finance,HOLD,-2.0,SELL,-3.0,HOLD,0.0,USDF,Falcon USD
+ethereum-classic,BUY,3.0,HOLD,-1.0,HOLD,0.0,ETC,Ethereum Classic
+jito-staked-sol,BUY,4.0,HOLD,0.0,HOLD,0.0,JITOSOL,Jito Staked SOL
+binance-peg-weth,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,Binance-Peg WETH
+ethena,BUY,3.0,HOLD,-1.0,HOLD,0.0,ENA,Ethena
+internet-computer,HOLD,0.0,HOLD,-2.0,HOLD,0.0,ICP,Internet Computer
+aster-2,HOLD,-2.0,HOLD,0.0,HOLD,0.0,ASTER,Aster
+pi-network,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,PI,Pi Network
+blackrock-usd-institutional-digital-liquidity-fund,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,BUIDL,BlackRock USD Institutional Digital Liquidity Fund
+pax-gold,BUY,4.0,HOLD,2.0,HOLD,0.0,PAXG,PAX Gold
+wrapped-solana,BUY,4.0,HOLD,0.0,HOLD,0.0,SOL,Wrapped SOL
+worldcoin-wld,BUY,4.0,HOLD,0.0,HOLD,0.0,WLD,Worldcoin
+htx-dao,HOLD,1.0,HOLD,-2.0,HOLD,0.0,HTX,HTX DAO
+jupiter-perpetuals-liquidity-provider-token,BUY,5.0,HOLD,1.0,HOLD,0.0,JLP,Jupiter Perpetuals Liquidity Provider Token
+hashnote-usyc,HOLD,0.0,HOLD,0.0,HOLD,0.0,USYC,Circle USYC
+global-dollar,BUY,4.0,BUY,4.0,HOLD,0.0,USDG,Global Dollar
+kucoin-shares,BUY,5.0,HOLD,1.0,HOLD,0.0,KCS,KuCoin
+syrupusdc,HOLD,1.0,HOLD,1.0,HOLD,0.0,SYRUPUSDC,syrupUSDC
+binance-staked-sol,BUY,4.0,HOLD,0.0,HOLD,0.0,BNSOL,Binance Staked SOL
+aptos,HOLD,1.0,HOLD,-1.0,HOLD,0.0,APT,Aptos
+sky,HOLD,2.0,HOLD,2.0,HOLD,0.0,SKY,Sky
+pump-fun,HOLD,1.0,HOLD,0.0,HOLD,0.0,PUMP,Pump.fun
+hash-2,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,HASH,Provenance Blockchain
+ripple-usd,HOLD,-2.0,SELL,-3.0,HOLD,0.0,RLUSD,Ripple USD
+polygon-ecosystem-token,BUY,3.0,HOLD,-1.0,HOLD,0.0,POL,POL (ex-MATIC)
+ondo-finance,BUY,3.0,HOLD,-1.0,HOLD,0.0,ONDO,Ondo
+bfusd,HOLD,1.0,HOLD,0.0,HOLD,0.0,BFUSD,BFUSD
+midnight-3,HOLD,0.0,HOLD,0.0,HOLD,0.0,NIGHT,Midnight
+kaspa,BUY,5.0,HOLD,1.0,HOLD,0.0,KAS,Kaspa
+wbnb,HOLD,2.0,HOLD,2.0,HOLD,0.0,WBNB,Wrapped BNB
+rocket-pool-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,RETH,Rocket Pool ETH
+gatechain-token,HOLD,2.0,HOLD,0.0,HOLD,0.0,GT,Gate
+arbitrum,HOLD,2.0,HOLD,1.0,HOLD,0.0,ARB,Arbitrum
+render-token,BUY,5.0,BUY,4.0,HOLD,0.0,RENDER,Render
+algorand,BUY,4.0,HOLD,1.0,HOLD,0.0,ALGO,Algorand
+cosmos,BUY,5.0,HOLD,1.0,HOLD,0.0,ATOM,Cosmos Hub
+kelp-dao-restaked-eth,BUY,5.0,HOLD,2.0,HOLD,0.0,RSETH,Kelp DAO Restaked ETH
+filecoin,BUY,3.0,HOLD,0.0,HOLD,0.0,FIL,Filecoin
+quant-network,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,QNT,Quant
+official-trump,HOLD,2.0,HOLD,-2.0,HOLD,0.0,TRUMP,Official Trump
+vechain,BUY,3.0,HOLD,-1.0,HOLD,0.0,VET,VeChain
+bridged-wrapped-lido-staked-ether-scroll,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Bridged Wrapped Lido Staked Ether (Scroll)
+bonk,BUY,5.0,HOLD,2.0,HOLD,0.0,BONK,Bonk
+ignition-fbtc,BUY,3.0,HOLD,1.0,HOLD,0.0,FBTC,Function FBTC
+lombard-staked-btc,BUY,4.0,HOLD,1.0,HOLD,0.0,LBTC,Lombard Staked BTC
+flare-networks,BUY,3.0,HOLD,-2.0,HOLD,0.0,FLR,Flare
+solv-btc,BUY,4.0,HOLD,1.0,HOLD,0.0,SOLVBTC,Solv Protocol BTC
+janus-henderson-anemoy-aaa-clo-fund,HOLD,0.0,HOLD,0.0,HOLD,0.0,JAAA,Janus Henderson Anemoy AAA CLO Fund
+nexo,BUY,4.0,HOLD,-1.0,HOLD,0.0,NEXO,NEXO
+xdce-crowd-sale,HOLD,2.0,HOLD,0.0,HOLD,0.0,XDC,XDC Network
+myx-finance,HOLD,2.0,BUY,3.0,HOLD,0.0,MYX,MYX Finance
+usdd,BUY,4.0,BUY,4.0,HOLD,0.0,USDD,USDD
+liquid-staked-ethereum,BUY,5.0,HOLD,0.0,HOLD,0.0,LSETH,Liquid Staked ETH
+usdtb,BUY,3.0,HOLD,0.0,HOLD,0.0,USDTB,USDtb
+ousg,HOLD,1.0,HOLD,1.0,HOLD,0.0,OUSG,OUSG
+sei-network,HOLD,2.0,HOLD,-1.0,HOLD,0.0,SEI,Sei
+mantle-staked-ether,BUY,6.0,HOLD,1.0,HOLD,0.0,METH,Mantle Staked Ether
+wrappedm-by-m0,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,WM,WrappedM by M^0
+pudgy-penguins,BUY,5.0,HOLD,1.0,HOLD,0.0,PENGU,Pudgy Penguins
+superstate-short-duration-us-government-securities-fund-ustb,HOLD,2.0,HOLD,1.0,HOLD,0.0,USTB,Superstate Short Duration U.S. Government Securities Fund (USTB)
+bridged-usdc-polygon-pos-bridge,SELL,-3.0,HOLD,-2.0,HOLD,0.0,USDC.E,Polygon Bridged USDC (Polygon PoS)
+arbitrum-bridged-wbtc-arbitrum-one,BUY,4.0,HOLD,0.0,HOLD,0.0,WBTC,Arbitrum Bridged WBTC (Arbitrum One)
+lighter,HOLD,0.0,HOLD,0.0,HOLD,0.0,LIT,Lighter
+clbtc,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,CLBTC,clBTC
+renzo-restaked-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,EZETH,Renzo Restaked ETH
+virtual-protocol,BUY,5.0,BUY,4.0,HOLD,0.0,VIRTUAL,Virtuals Protocol
+ondo-us-dollar-yield,HOLD,2.0,BUY,3.0,HOLD,0.0,USDY,Ondo US Dollar Yield
+wrapped-flare,BUY,3.0,HOLD,-1.0,HOLD,0.0,WFLR,Wrapped Flare
+jupiter-exchange-solana,BUY,3.0,HOLD,-2.0,HOLD,0.0,JUP,Jupiter
+story-2,BUY,3.0,HOLD,-2.0,HOLD,0.0,IP,Story
+beldex,HOLD,1.0,BUY,3.0,HOLD,0.0,BDX,Beldex
+morpho,HOLD,2.0,HOLD,-2.0,HOLD,0.0,MORPHO,Morpho
+usdai,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,USDAI,USDai
+syrupusdt,HOLD,0.0,HOLD,0.0,HOLD,0.0,SYRUPUSDT,syrupUSDT
+l2-standard-bridged-weth-base,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,L2 Standard Bridged WETH (Base)
+pancakeswap-token,HOLD,1.0,HOLD,-2.0,HOLD,0.0,CAKE,PancakeSwap
+stakewise-v3-oseth,BUY,5.0,HOLD,1.0,HOLD,0.0,OSETH,StakeWise Staked ETH
+jupiter-staked-sol,BUY,4.0,HOLD,0.0,HOLD,0.0,JUPSOL,Jupiter Staked SOL
+fetch-ai,BUY,5.0,HOLD,2.0,HOLD,0.0,FET,Artificial Superintelligence Alliance
+blockstack,BUY,5.0,BUY,4.0,HOLD,0.0,STX,Stacks
+kinetic-staked-hype,HOLD,1.0,HOLD,0.0,HOLD,0.0,KHYPE,Kinetiq Staked HYPE
+optimism,BUY,3.0,HOLD,2.0,HOLD,0.0,OP,Optimism
+curve-dao-token,HOLD,2.0,HOLD,1.0,HOLD,0.0,CRV,Curve DAO
+tezos,BUY,3.0,HOLD,2.0,HOLD,0.0,XTZ,Tezos
+eutbl,HOLD,-1.0,BUY,3.0,HOLD,0.0,EUTBL,Spiko EU T-Bills Money Market Fund
+spx6900,HOLD,2.0,HOLD,0.0,HOLD,0.0,SPX,SPX6900
+c8ntinuum,HOLD,2.0,HOLD,1.0,HOLD,0.0,CTM,c8ntinuum
+usual-usd,BUY,5.0,BUY,5.0,HOLD,0.0,USD0,Usual USD
+lido-dao,HOLD,2.0,HOLD,1.0,HOLD,0.0,LDO,Lido DAO
+tbtc,BUY,4.0,HOLD,0.0,HOLD,0.0,TBTC,tBTC
+floki,BUY,4.0,HOLD,0.0,HOLD,0.0,FLOKI,FLOKI
+injective-protocol,HOLD,2.0,HOLD,-1.0,HOLD,0.0,INJ,Injective
+arbitrum-bridged-weth-arbitrum-one,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,Arbitrum Bridged WETH (Arbitrum One)
+dash,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,DASH,Dash
+aerodrome-finance,HOLD,1.0,HOLD,-2.0,HOLD,0.0,AERO,Aerodrome Finance
+first-digital-usd,BUY,4.0,HOLD,2.0,HOLD,0.0,FDUSD,First Digital USD
+gteth,BUY,4.0,HOLD,0.0,HOLD,0.0,GTETH,GTETH
+ether-fi,BUY,3.0,HOLD,-2.0,HOLD,0.0,ETHFI,Ether.fi
+gho,HOLD,-2.0,SELL,-4.0,HOLD,0.0,GHO,GHO
+celestia,HOLD,1.0,HOLD,-1.0,HOLD,0.0,TIA,Celestia
+fasttoken,HOLD,2.0,HOLD,0.0,HOLD,0.0,FTN,Fasttoken
+msol,BUY,3.0,HOLD,0.0,HOLD,0.0,MSOL,Marinade Staked SOL
+stader-ethx,BUY,5.0,HOLD,2.0,HOLD,0.0,ETHX,Stader ETHx
+ether-fi-liquid-eth,HOLD,0.0,HOLD,0.0,HOLD,0.0,LIQUIDETH,Ether.Fi Liquid ETH
+iota,BUY,4.0,HOLD,2.0,HOLD,0.0,IOTA,IOTA
+chiliz,HOLD,1.0,BUY,3.0,HOLD,0.0,CHZ,Chiliz
+starknet,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,STRK,Starknet
+wrapped-apecoin,HOLD,2.0,HOLD,0.0,HOLD,0.0,WAPE,Wrapped ApeCoin
+the-graph,BUY,3.0,HOLD,-1.0,HOLD,0.0,GRT,The Graph
+just,BUY,3.0,BUY,3.0,HOLD,0.0,JST,JUST
+jasmycoin,BUY,5.0,BUY,4.0,HOLD,0.0,JASMY,JasmyCoin
+newton-project,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,AB,AB
+bittorrent,BUY,5.0,BUY,3.0,HOLD,0.0,BTT,BitTorrent
+fartcoin,BUY,3.0,BUY,4.0,HOLD,0.0,FARTCOIN,Fartcoin
+syrup,BUY,3.0,HOLD,2.0,HOLD,0.0,SYRUP,Maple Finance
+sbtc-2,BUY,4.0,HOLD,0.0,HOLD,0.0,SBTC,sBTC
+ethereum-name-service,HOLD,2.0,HOLD,-1.0,HOLD,0.0,ENS,Ethereum Name Service
+doublezero,HOLD,0.0,HOLD,0.0,HOLD,0.0,2Z,DoubleZero
+coinbase-wrapped-staked-eth,BUY,4.0,HOLD,1.0,HOLD,0.0,CBETH,Coinbase Wrapped Staked ETH
+staked-aave,HOLD,0.0,HOLD,0.0,HOLD,0.0,STKAAVE,Staked Aave
+conflux-token,HOLD,2.0,HOLD,0.0,HOLD,0.0,CFX,Conflux
+usdb,BUY,5.0,BUY,4.0,HOLD,0.0,USDB,USDB
+kaia,BUY,3.0,HOLD,-1.0,HOLD,0.0,KAIA,Kaia
+pyth-network,BUY,3.0,HOLD,-2.0,HOLD,0.0,PYTH,Pyth Network
+sun-token,HOLD,0.0,HOLD,-2.0,HOLD,0.0,SUN,Sun Token
+dogwifcoin,BUY,5.0,HOLD,1.0,HOLD,0.0,WIF,dogwifhat
+bitcoin-cash-sv,BUY,5.0,HOLD,1.0,HOLD,0.0,BSV,Bitcoin SV
+steakhouse-usdc-morpho-vault,HOLD,0.0,HOLD,2.0,HOLD,0.0,STEAKUSDC,Steakhouse USDC Morpho Vault
+trust-wallet-token,HOLD,1.0,HOLD,-1.0,HOLD,0.0,TWT,Trust Wallet
+ether-fi-staked-eth,BUY,5.0,HOLD,2.0,HOLD,0.0,EETH,ether.fi Staked ETH
+binance-peg-dogecoin,BUY,4.0,HOLD,0.0,HOLD,0.0,DOGE,Binance-Peg Dogecoin
+wrapped-stx-velar,BUY,5.0,BUY,3.0,HOLD,0.0,WSTX,Wrapped STX (Velar)
+telcoin,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,TEL,Telcoin
+plasma,HOLD,0.0,HOLD,0.0,HOLD,0.0,XPL,Plasma
+gnosis,HOLD,1.0,HOLD,2.0,HOLD,0.0,GNO,Gnosis
+crvusd,BUY,5.0,BUY,5.0,HOLD,0.0,CRVUSD,crvUSD
+pendle,BUY,4.0,HOLD,1.0,HOLD,0.0,PENDLE,Pendle
+apenft,BUY,4.0,HOLD,-1.0,HOLD,0.0,NFT,AINFT
+euro-coin,BUY,3.0,HOLD,2.0,HOLD,0.0,EURC,EURC
+chain-2,BUY,3.0,BUY,5.0,HOLD,0.0,XCN,Onyxcoin
+cap-usd,BUY,3.0,HOLD,0.0,HOLD,0.0,CUSD,Cap USD
+olympus,BUY,4.0,HOLD,0.0,HOLD,0.0,OHM,Olympus
+bitcoin-avalanche-bridged-btc-b,BUY,4.0,HOLD,0.0,HOLD,0.0,BTC.B,Avalanche Bridged BTC (Avalanche)
+sonic-3,HOLD,2.0,HOLD,0.0,HOLD,0.0,S,Sonic
+benqi-liquid-staked-avax,BUY,3.0,HOLD,1.0,HOLD,0.0,SAVAX,BENQI Liquid Staked AVAX
+gala,BUY,3.0,HOLD,-1.0,HOLD,0.0,GALA,GALA
+kinesis-gold,BUY,4.0,HOLD,2.0,HOLD,0.0,KAU,Kinesis Gold
+resolv-usr,BUY,3.0,BUY,3.0,HOLD,0.0,USR,Resolv USR
+the-sandbox,HOLD,1.0,HOLD,-1.0,HOLD,0.0,SAND,The Sandbox
+basic-attention-token,HOLD,1.0,BUY,3.0,HOLD,0.0,BAT,Basic Attention
+river,HOLD,0.0,HOLD,0.0,HOLD,0.0,RIVER,River
+vision-3,HOLD,2.0,HOLD,0.0,HOLD,0.0,VSN,Vision
+raydium,BUY,5.0,HOLD,0.0,HOLD,0.0,RAY,Raydium
+resolv-wstusr,HOLD,0.0,HOLD,0.0,HOLD,0.0,WSTUSR,Resolv wstUSR
+arbitrum-bridged-wrapped-eeth,BUY,5.0,HOLD,0.0,HOLD,0.0,WEETH,Arbitrum Bridged Wrapped eETH (Arbitrum)
+theta-token,HOLD,2.0,HOLD,-1.0,HOLD,0.0,THETA,Theta Network
+janus-henderson-anemoy-treasury-fund,HOLD,0.0,HOLD,0.0,HOLD,0.0,JTRSY,Janus Henderson Anemoy Treasury Fund
+usx,HOLD,0.0,HOLD,0.0,HOLD,0.0,USX,USX
+unit-bitcoin,BUY,3.0,HOLD,1.0,HOLD,0.0,UBTC,Unit Bitcoin
+frax-ether,BUY,6.0,HOLD,1.0,HOLD,0.0,FRXETH,Frax Ether
+monad,HOLD,0.0,HOLD,0.0,HOLD,0.0,MON,Monad
+zksync,BUY,3.0,HOLD,2.0,HOLD,0.0,ZK,ZKsync
+kinesis-silver,HOLD,2.0,HOLD,1.0,HOLD,0.0,KAG,Kinesis Silver
+helium,HOLD,0.0,HOLD,-1.0,HOLD,0.0,HNT,Helium
+decred,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,DCR,Decred
+vaulta,HOLD,1.0,HOLD,0.0,HOLD,0.0,A,Vaulta
+humanity,BUY,3.0,BUY,3.0,HOLD,0.0,H,Humanity
+layerzero,BUY,4.0,HOLD,0.0,HOLD,0.0,ZRO,LayerZero
+polygon-pos-bridged-weth-polygon-pos,BUY,5.0,HOLD,1.0,HOLD,0.0,WETH,Polygon PoS Bridged WETH (Polygon POS)
+neo,BUY,3.0,HOLD,-1.0,HOLD,0.0,NEO,NEO
+zebec-network,BUY,4.0,HOLD,1.0,HOLD,0.0,ZBCN,Zebec Network
+frax,HOLD,1.0,HOLD,-2.0,HOLD,0.0,FRAX,Legacy Frax Dollar
+astherus-staked-bnb,BUY,3.0,HOLD,2.0,HOLD,0.0,ASBNB,Aster Staked BNB
+mantle-restaked-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,CMETH,Mantle Restaked ETH
+gate-wrapped-btc,BUY,3.0,HOLD,0.0,HOLD,0.0,GTBTC,Gate Wrapped BTC
+golem,HOLD,1.0,HOLD,2.0,HOLD,0.0,GLM,Golem
+wrapped-hype,HOLD,2.0,HOLD,-1.0,HOLD,0.0,WHYPE,Wrapped HYPE
+decentraland,HOLD,2.0,HOLD,-1.0,HOLD,0.0,MANA,Decentraland
+merlin-chain,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,MERL,Merlin Chain
+undeads-games,HOLD,2.0,BUY,3.0,HOLD,0.0,UDS,Undeads Games
+wrapped-ether-mantle-bridge,BUY,5.0,HOLD,2.0,HOLD,0.0,WETH,Mantle Bridged WETH (Mantle)
+binance-wrapped-btc,BUY,3.0,HOLD,0.0,HOLD,0.0,BBTC,Binance Wrapped BTC
+pippin,HOLD,1.0,HOLD,2.0,HOLD,0.0,PIPPIN,pippin
+compound-governance-token,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,COMP,Compound
+stable-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,STABLE,​​Stable
+arweave,BUY,3.0,HOLD,1.0,HOLD,0.0,AR,Arweave
+arbitrum-bridged-wsteth-arbitrum,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Arbitrum Bridged wstETH (Arbitrum)
+mimblewimblecoin,HOLD,1.0,HOLD,0.0,HOLD,0.0,MWC,MimbleWimbleCoin
+swissborg,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,BORG,SwissBorg
+susdai,HOLD,2.0,BUY,3.0,HOLD,0.0,SUSDAI,Staked USDai
+btse-token,HOLD,2.0,BUY,4.0,HOLD,0.0,BTSE,BTSE Token
+bybit-staked-sol,BUY,3.0,HOLD,0.0,HOLD,0.0,BBSOL,Bybit Staked SOL
+superbridge-bridged-wsteth-base,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Superbridge Bridged wstETH (Base)
+drift-staked-sol,BUY,4.0,HOLD,1.0,HOLD,0.0,DSOL,Drift Staked SOL
+fidelity-digital-interest-token,HOLD,-1.0,HOLD,0.0,HOLD,0.0,FDIT,Fidelity Digital Interest Token
+build-on,BUY,4.0,HOLD,0.0,HOLD,0.0,B,BUILDon
+ecash,BUY,5.0,HOLD,2.0,HOLD,0.0,XEC,eCash
+ape-and-pepe,HOLD,0.0,HOLD,-2.0,HOLD,0.0,APEPE,Ape and Pepe
+terra-luna,BUY,3.0,BUY,4.0,HOLD,0.0,LUNC,Terra Luna Classic
+reallink,HOLD,2.0,BUY,3.0,HOLD,0.0,REAL,RealLink
+instadapp,HOLD,1.0,HOLD,-2.0,HOLD,0.0,FLUID,Fluid
+immutable-x,BUY,3.0,HOLD,-2.0,HOLD,0.0,IMX,Immutable
+wrapped-avax,BUY,3.0,HOLD,0.0,HOLD,0.0,WAVAX,Wrapped AVAX
+ibc-bridged-usdc,HOLD,1.0,HOLD,-1.0,HOLD,0.0,USDC.N,Noble USDC
+wrapped-aave-ethereum-usdc,HOLD,-1.0,HOLD,0.0,HOLD,0.0,WAETHUSDC,Wrapped Aave Ethereum USDC
+eigenlayer,BUY,3.0,HOLD,-1.0,HOLD,0.0,EIGEN,EigenCloud (prev. EigenLayer)
+ylds,HOLD,0.0,HOLD,0.0,HOLD,0.0,YLDS,YLDS
+loaded-lions,HOLD,2.0,HOLD,-2.0,HOLD,0.0,LION,Loaded Lions
+usda-2,HOLD,1.0,HOLD,0.0,HOLD,0.0,USDA,USDa
+1inch,HOLD,1.0,HOLD,-2.0,HOLD,0.0,1INCH,1INCH
+agora-dollar,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,AUSD,AUSD
+walrus-2,HOLD,2.0,HOLD,-1.0,HOLD,0.0,WAL,Walrus
+the-vault-staked-sol,BUY,3.0,HOLD,0.0,HOLD,0.0,VSOL,The Vault Staked SOL
+ethena-staked-ena,HOLD,2.0,HOLD,-1.0,HOLD,0.0,SENA,Ethena Staked ENA
+falcon-finance-ff,HOLD,0.0,HOLD,0.0,HOLD,0.0,FF,Falcon Finance
+kamino,BUY,4.0,HOLD,1.0,HOLD,0.0,KMNO,Kamino
+polygon-bridged-wbtc-polygon-pos,BUY,4.0,HOLD,0.0,HOLD,0.0,WBTC,Polygon Bridged WBTC (Polygon POS)
+wefi,HOLD,2.0,HOLD,0.0,HOLD,0.0,WFI,WeFi
+blockchain-capital,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,BCAP,Blockchain Capital
+zero-gravity,HOLD,0.0,HOLD,0.0,HOLD,0.0,0G,0G
+treehouse-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,TETH,Treehouse ETH
+kraken-wrapped-btc,BUY,4.0,HOLD,1.0,HOLD,0.0,KBTC,Kraken Wrapped BTC
+thorchain,HOLD,1.0,HOLD,1.0,HOLD,0.0,RUNE,THORChain
+ultima,BUY,3.0,HOLD,2.0,HOLD,0.0,ULTIMA,Ultima
+cheems-token,HOLD,0.0,HOLD,-2.0,HOLD,0.0,CHEEMS,Cheems Token
+savings-dai,HOLD,0.0,HOLD,1.0,HOLD,0.0,SDAI,Savings Dai
+apecoin,BUY,3.0,HOLD,0.0,HOLD,0.0,APE,ApeCoin
+amp-token,HOLD,1.0,HOLD,-1.0,HOLD,0.0,AMP,Amp
+quantum-resistant-ledger,HOLD,2.0,HOLD,2.0,HOLD,0.0,QRL,Quantum Resistant Ledger
+wormhole,BUY,3.0,HOLD,-1.0,HOLD,0.0,W,Wormhole
+legacy-token,HOLD,0.0,HOLD,1.0,HOLD,0.0,LGCT,Legacy Token
+mx-token,HOLD,2.0,HOLD,0.0,HOLD,0.0,MX,MX
+origintrail,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,TRAC,OriginTrail
+ribbita-by-virtuals,BUY,3.0,HOLD,2.0,HOLD,0.0,TIBBIR,Ribbita by Virtuals
+tradable-na-rent-financing-platform-sstn,HOLD,0.0,HOLD,0.0,HOLD,0.0,PC0000031,Tradable NA Rent Financing Platform SSTN
+flare-bridged-xrp-flare,HOLD,0.0,HOLD,0.0,HOLD,0.0,FXRP,Flare Bridged XRP (Flare)
+convex-finance,BUY,5.0,HOLD,0.0,HOLD,0.0,CVX,Convex Finance
+infinifi-usd,BUY,3.0,HOLD,0.0,HOLD,0.0,IUSD,InfiniFi USD
+staked-cap-usd,HOLD,0.0,HOLD,0.0,HOLD,0.0,STCUSD,Staked Cap USD
+strata-senior-usde,HOLD,0.0,HOLD,0.0,HOLD,0.0,SRUSDE,Strata Senior USDe
+elrond-erd-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,EGLD,MultiversX
+zora,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,ZORA,Zora
+jito-governance-token,HOLD,2.0,HOLD,0.0,HOLD,0.0,JTO,Jito
+lombard-protocol,BUY,3.0,HOLD,0.0,HOLD,0.0,BARD,Lombard
+wrapped-aave-ethereum-usdt,HOLD,-1.0,HOLD,0.0,HOLD,0.0,WAETHUSDT,Wrapped Aave Ethereum USDT
+wrapped-ethereum-sollet,BUY,5.0,HOLD,2.0,HOLD,0.0,SOETH,Wrapped Ethereum (Sollet)
+solv-protocol-solvbtc-bbn,HOLD,0.0,HOLD,-2.0,HOLD,0.0,XSOLVBTC,Solv Protocol Staked BTC
+staked-frax-ether,BUY,4.0,HOLD,1.0,HOLD,0.0,SFRXETH,Staked Frax Ether
+uchain-2,BUY,3.0,HOLD,0.0,HOLD,0.0,UCN,UCHAIN
+reserve-rights-token,HOLD,2.0,HOLD,-1.0,HOLD,0.0,RSR,Reserve Rights
+based-brett,BUY,5.0,HOLD,1.0,HOLD,0.0,BRETT,Brett
+safepal,BUY,4.0,HOLD,1.0,HOLD,0.0,SFP,SafePal
+gmt-token,BUY,3.0,BUY,4.0,HOLD,0.0,GOMINING,GoMining Token
+astherus-usdf,HOLD,2.0,HOLD,-1.0,HOLD,0.0,USDF,Aster USDF
+havven,HOLD,1.0,HOLD,-1.0,HOLD,0.0,SNX,Synthetix
+hastra-wrapped-ylds,HOLD,0.0,HOLD,0.0,HOLD,0.0,WYLDS,Hastra Wrapped YLDS
+wemix-token,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,WEMIX,WEMIX
+hastra-prime,HOLD,0.0,HOLD,0.0,HOLD,0.0,PRIME,PRIME
+aethir,HOLD,2.0,HOLD,-2.0,HOLD,0.0,ATH,Aethir
+jpool,BUY,4.0,HOLD,1.0,HOLD,0.0,JSOL,JPool Staked SOL
+meta-2-2,BUY,5.0,HOLD,0.0,HOLD,0.0,META,MetaDAO
+spiko-us-t-bills-money-market-fund,BUY,3.0,HOLD,2.0,HOLD,0.0,USTBL,Spiko US T-Bills Money Market Fund
+bnb48-club-token,BUY,3.0,HOLD,-2.0,HOLD,0.0,KOGE,KOGE
+zencash,HOLD,1.0,HOLD,-1.0,HOLD,0.0,ZEN,Horizen
+kite-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,KITE,Kite
+dydx-chain,HOLD,1.0,HOLD,-1.0,HOLD,0.0,DYDX,dYdX
+flow,HOLD,2.0,HOLD,2.0,HOLD,0.0,FLOW,Flow
+satoshi-stablecoin,HOLD,0.0,SELL,-3.0,HOLD,0.0,SATUSD,Satoshi Stablecoin
+axie-infinity,HOLD,2.0,HOLD,1.0,HOLD,0.0,AXS,Axie Infinity
+concordium,HOLD,0.0,HOLD,0.0,HOLD,0.0,CCD,Concordium
+standx-dusd,BUY,4.0,HOLD,-2.0,HOLD,0.0,DUSD,StandX DUSD
+beam-2,HOLD,1.0,HOLD,-2.0,HOLD,0.0,BEAM,Beam
+pieverse,HOLD,0.0,HOLD,0.0,HOLD,0.0,PIEVERSE,Pieverse
+livepeer,HOLD,2.0,HOLD,-2.0,HOLD,0.0,LPT,Livepeer
+dexe,HOLD,2.0,HOLD,-1.0,HOLD,0.0,DEXE,DeXe
+theo-short-duration-us-treasury-fund,BUY,3.0,HOLD,0.0,HOLD,0.0,THBILL,Theo Short Duration US Treasury Fund
+qtum,BUY,4.0,HOLD,-1.0,HOLD,0.0,QTUM,Qtum
+resolv-rlp,HOLD,0.0,HOLD,0.0,HOLD,0.0,RLP,Resolv Liquidity Provider Token
+phantom-staked-sol,BUY,3.0,HOLD,0.0,HOLD,0.0,PSOL,Phantom Staked SOL
+zano,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,ZANO,Zano
+gusd,HOLD,2.0,HOLD,0.0,HOLD,0.0,GUSD,GUSD
+binance-peg-sol,BUY,4.0,HOLD,0.0,HOLD,0.0,SOL,Binance-Peg SOL
+toshi,HOLD,1.0,HOLD,-1.0,HOLD,0.0,TOSHI,Toshi
+sosovalue,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,SOSO,SoSoValue
+grass,BUY,3.0,HOLD,0.0,HOLD,0.0,GRASS,Grass
+blazestake-staked-sol,BUY,4.0,HOLD,0.0,HOLD,0.0,BSOL,BlazeStake Staked SOL
+bedrock-btc,HOLD,0.0,HOLD,1.0,HOLD,0.0,BRBTC,Bedrock BTC
+soon-2,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,SOON,SOON
+nxm,BUY,3.0,HOLD,1.0,HOLD,0.0,NXM,Nexus Mutual
+midas-mf-one,HOLD,1.0,HOLD,0.0,HOLD,0.0,MF-ONE,Midas mF-ONE
+stasis-eurs,HOLD,2.0,BUY,3.0,HOLD,0.0,EURS,STASIS EURO
+bianrensheng,HOLD,0.0,HOLD,0.0,HOLD,0.0,币安人生,币安人生 (BinanceLife)
+tokenize-xchange,HOLD,2.0,HOLD,2.0,HOLD,0.0,TKX,Tokenize Xchange
+sapien-2,BUY,3.0,HOLD,0.0,HOLD,0.0,SAPIEN,Sapien
+rollbit-coin,HOLD,2.0,HOLD,1.0,HOLD,0.0,RLB,Rollbit Coin
+superfarm,HOLD,0.0,HOLD,-2.0,HOLD,0.0,SUPER,SuperVerse
+origin-ether,BUY,5.0,HOLD,2.0,HOLD,0.0,OETH,Origin Ether
+ai-companions,HOLD,0.0,HOLD,0.0,HOLD,0.0,AIC,AI Companions
+theta-fuel,HOLD,0.0,HOLD,-1.0,HOLD,0.0,TFUEL,Theta Fuel
+kusama,HOLD,2.0,HOLD,-2.0,HOLD,0.0,KSM,Kusama
+universal-btc,BUY,3.0,HOLD,0.0,HOLD,0.0,UNIBTC,Universal BTC
+turbo,BUY,3.0,HOLD,2.0,HOLD,0.0,TURBO,Turbo
+gas,BUY,3.0,HOLD,2.0,HOLD,0.0,GAS,Gas
+four,HOLD,1.0,HOLD,0.0,HOLD,0.0,FORM,Four
+dola-usd,HOLD,1.0,BUY,3.0,HOLD,0.0,DOLA,DOLA
+dog-go-to-the-moon-rune,BUY,5.0,HOLD,1.0,HOLD,0.0,DOG,Dog (Bitcoin)
+creditcoin-2,HOLD,1.0,HOLD,-1.0,HOLD,0.0,CTC,Creditcoin
+meteora,HOLD,0.0,HOLD,0.0,HOLD,0.0,MET,Meteora
+aioz-network,HOLD,2.0,HOLD,0.0,HOLD,0.0,AIOZ,AIOZ Network
+melania-meme,BUY,3.0,BUY,4.0,HOLD,0.0,MELANIA,Melania Meme
+velo,HOLD,2.0,HOLD,2.0,HOLD,0.0,VELO,Velo
+kaito,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,KAITO,KAITO
+payfi-strategy-token-usdc,HOLD,2.0,HOLD,0.0,HOLD,0.0,PSTUSDC,PayFi Strategy Token USDC
+apollo-diversified-credit-securitize-fund,HOLD,1.0,HOLD,1.0,HOLD,0.0,ACRED,Apollo Diversified Credit Securitize Fund
+mog-coin,BUY,4.0,HOLD,0.0,HOLD,0.0,MOG,Mog Coin
+wrapped-ether-linea,BUY,5.0,HOLD,1.0,HOLD,0.0,WETH,Bridged Wrapped Ether (Linea)
+wrapped-pulse-wpls,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,WPLS,Wrapped Pulse
+gauntlet-usdc-prime-morpho-vault,HOLD,2.0,HOLD,2.0,HOLD,0.0,GTUSDC,Gauntlet USDC Prime Morpho Vault
+coredaoorg,HOLD,1.0,HOLD,1.0,HOLD,0.0,CORE,Core
+nervos-network,BUY,4.0,HOLD,1.0,HOLD,0.0,CKB,Nervos Network
+yearn-finance,BUY,3.0,HOLD,-1.0,HOLD,0.0,YFI,yearn.finance
+cow-protocol,HOLD,2.0,HOLD,0.0,HOLD,0.0,COW,CoW Protocol
+etherfi-weeths,BUY,5.0,HOLD,2.0,HOLD,0.0,WEETHS,ether.fi weETHs
+adi-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,ADI,ADI
+baby-doge-coin,BUY,3.0,HOLD,1.0,HOLD,0.0,BABYDOGE,Baby Doge Coin
+frax-usd,HOLD,-1.0,HOLD,2.0,HOLD,0.0,FRXUSD,Frax USD
+conscious-token,HOLD,0.0,HOLD,1.0,HOLD,0.0,CONSCIOUS,Conscious Token
+prometeus,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,PROM,Prom
+mag7-ssi,BUY,4.0,HOLD,0.0,HOLD,0.0,MAG7.SSI,MAG7.ssi
+bitmart-token,HOLD,1.0,HOLD,-1.0,HOLD,0.0,BMX,BitMart
+ravencoin,HOLD,1.0,HOLD,-2.0,HOLD,0.0,RVN,Ravencoin
+0x,HOLD,2.0,HOLD,-2.0,HOLD,0.0,ZRX,0x Protocol
+crypto-com-staked-eth,BUY,5.0,HOLD,2.0,HOLD,0.0,CDCETH,Crypto.com Staked ETH
+akash-network,HOLD,2.0,HOLD,0.0,HOLD,0.0,AKT,Akash Network
+ozone-chain,HOLD,0.0,HOLD,-1.0,HOLD,0.0,OZO,Ozone Chain
+rekt-4,HOLD,2.0,HOLD,0.0,HOLD,0.0,REKT,Rekt
+super-oeth,BUY,6.0,HOLD,1.0,HOLD,0.0,SUPEROETH,Super OETH
+pleasing-usd,HOLD,0.0,HOLD,0.0,HOLD,0.0,PUSD,Pleasing USD
+linea,HOLD,0.0,HOLD,0.0,HOLD,0.0,LINEA,Linea
+arkham,HOLD,2.0,HOLD,-1.0,HOLD,0.0,ARKM,Arkham
+polygon-bridged-weeth-katana,HOLD,0.0,HOLD,0.0,HOLD,0.0,WEETH,Polygon Bridged weETH (Katana)
+reserve-protocol-eth-plus,BUY,5.0,HOLD,2.0,HOLD,0.0,ETH+,ETHPlus
+gaib-ai-dollar-alpha-usdc,HOLD,0.0,HOLD,0.0,HOLD,0.0,AIDAUSDC,Gaib AI Dollar Alpha USDC
+staked-trx,BUY,3.0,HOLD,2.0,HOLD,0.0,STRX,Staked TRX
+useless-3,HOLD,2.0,HOLD,1.0,HOLD,0.0,USELESS,Useless Coin
+brevis,HOLD,0.0,HOLD,0.0,HOLD,0.0,BREV,Brevis
+bitkub-coin,HOLD,2.0,HOLD,-2.0,HOLD,0.0,KUB,KUB Coin
+wrapped-aave-ethereum-weth,BUY,4.0,HOLD,0.0,HOLD,0.0,WAETHWETH,Wrapped Aave Ethereum WETH
+stp-network,HOLD,0.0,HOLD,-2.0,HOLD,0.0,AWE,AWE Network
+staked-hype,HOLD,1.0,HOLD,-1.0,HOLD,0.0,STHYPE,Staked HYPE
+digibyte,HOLD,1.0,HOLD,-2.0,HOLD,0.0,DGB,DigiByte
+anzen-usdz,BUY,4.0,BUY,3.0,HOLD,0.0,USDZ,Anzen USDz
+threshold-network-token,HOLD,0.0,HOLD,-1.0,HOLD,0.0,T,Threshold Network
+the-white-whale,HOLD,0.0,HOLD,0.0,HOLD,0.0,WHITEWHALE,The White Whale
+re-protocol-reusd,HOLD,1.0,HOLD,2.0,HOLD,0.0,REUSD,Re Protocol reUSD
+unibase,HOLD,-1.0,HOLD,0.0,HOLD,0.0,UB,Unibase
+mina-protocol,HOLD,2.0,HOLD,-1.0,HOLD,0.0,MINA,Mina Protocol
+safe,HOLD,1.0,HOLD,1.0,HOLD,0.0,SAFE,Safe
+deep,HOLD,2.0,HOLD,-2.0,HOLD,0.0,DEEP,DeepBook
+shuffle-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,SHFL,Shuffle
+impossible-cloud-network-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,ICNT,Impossible Cloud Network Token
+non-playable-coin,BUY,5.0,HOLD,1.0,HOLD,0.0,NPC,Non-Playable Coin
+coco-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,COCO,coco
+railgun,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,RAIL,Railgun
+keeta,HOLD,0.0,HOLD,-2.0,HOLD,0.0,KTA,Keeta
+movement,HOLD,1.0,HOLD,0.0,HOLD,0.0,MOVE,Movement
+ronin,HOLD,0.0,HOLD,1.0,HOLD,0.0,RON,Ronin
+ether-fi-staked-btc,BUY,3.0,HOLD,0.0,HOLD,0.0,EBTC,Ether.fi Staked BTC
+zilliqa,HOLD,2.0,HOLD,-1.0,HOLD,0.0,ZIL,Zilliqa
+popcat,HOLD,2.0,HOLD,1.0,HOLD,0.0,POPCAT,Popcat
+mnee-usd-stablecoin,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,MNEE,MNEE USD Stablecoin
+agentfun-ai,HOLD,1.0,HOLD,-2.0,HOLD,0.0,AGENTFUN,AgentFun.AI
+wrapped-savings-rusd,BUY,3.0,HOLD,0.0,HOLD,0.0,WSRUSD,Wrapped Savings rUSD
+tradable-singapore-fintech-ssl-2,HOLD,-1.0,HOLD,0.0,HOLD,0.0,PC0000023,Tradable Singapore Fintech SSL
+edu-coin,BUY,3.0,HOLD,2.0,HOLD,0.0,EDU,Open Campus
+ring-usd,HOLD,0.0,HOLD,0.0,HOLD,0.0,USDR,Ring USD
+alchemist-ai,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,ALCH,Alchemist AI
+qusdt,HOLD,1.0,HOLD,-1.0,HOLD,0.0,QUSDT,QOM One Bridged USDT (QL1)
+nano,HOLD,1.0,HOLD,-2.0,HOLD,0.0,XNO,Nano
+holotoken,BUY,5.0,HOLD,2.0,HOLD,0.0,HOT,Holo
+savings-xdai,BUY,4.0,BUY,3.0,HOLD,0.0,SDAI,Savings xDAI
+aleo,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,ALEO,ALEO
+qubic-network,HOLD,1.0,HOLD,-2.0,HOLD,0.0,QUBIC,Qubic
+renzo-restaked-lst,BUY,5.0,HOLD,1.0,HOLD,0.0,PZETH,Renzo Restaked LST
+ordinals,HOLD,2.0,HOLD,1.0,HOLD,0.0,ORDI,ORDI
+usda-3,HOLD,-2.0,HOLD,0.0,HOLD,0.0,USDA,USDA
+avant-usd,BUY,4.0,BUY,4.0,HOLD,0.0,AVUSD,Avant USD
+siacoin,BUY,4.0,HOLD,2.0,HOLD,0.0,SC,Siacoin
+verge,HOLD,1.0,BUY,4.0,HOLD,0.0,XVG,Verge
+magic-eden,HOLD,2.0,HOLD,1.0,HOLD,0.0,ME,Magic Eden
+zetachain,HOLD,2.0,HOLD,0.0,HOLD,0.0,ZETA,ZetaChain
+chutes,BUY,3.0,HOLD,1.0,HOLD,0.0,SN64,Chutes
+mocaverse,HOLD,2.0,HOLD,1.0,HOLD,0.0,MOCA,Moca Network
+cat-in-a-dogs-world,HOLD,2.0,HOLD,-1.0,HOLD,0.0,MEW,cat in a dogs world
+babypie-wrapped-btc,HOLD,1.0,HOLD,-2.0,HOLD,0.0,MBTC,Babypie Wrapped BTC
+kava,HOLD,0.0,HOLD,0.0,HOLD,0.0,KAVA,Kava
+proton,BUY,3.0,HOLD,0.0,HOLD,0.0,XPR,XPR Network
+coca,BUY,4.0,HOLD,2.0,HOLD,0.0,COCA,COCA
+cash-4,HOLD,0.0,HOLD,0.0,HOLD,0.0,CASH,CASH
+drift-protocol,HOLD,0.0,HOLD,-2.0,HOLD,0.0,DRIFT,Drift Protocol
+mantra-dao,HOLD,1.0,HOLD,1.0,HOLD,0.0,OM,MANTRA
+sushi,HOLD,2.0,HOLD,-1.0,HOLD,0.0,SUSHI,Sushi
+novem-pro,BUY,3.0,HOLD,1.0,HOLD,0.0,NVM,Novem Pro
+temple,HOLD,1.0,BUY,4.0,HOLD,0.0,TEMPLE,TempleDAO
+compound-ether,BUY,6.0,HOLD,2.0,HOLD,0.0,CETH,cETH
+tdccp,HOLD,0.0,HOLD,-2.0,HOLD,0.0,TDCCP,TDCCP
+oasis-network,HOLD,2.0,HOLD,-2.0,HOLD,0.0,ROSE,Oasis
+glue,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,WGLUE,Wrapped Glue
+vvs-finance,HOLD,2.0,HOLD,-2.0,HOLD,0.0,VVS,VVS Finance
+nexpace,HOLD,1.0,HOLD,0.0,HOLD,0.0,NXPC,Nexpace
+haedal-staked-sui,BUY,5.0,HOLD,1.0,HOLD,0.0,HASUI,Haedal Staked SUI
+coinex-token,HOLD,1.0,HOLD,1.0,HOLD,0.0,CET,CoinEx
+astar,HOLD,1.0,HOLD,0.0,HOLD,0.0,ASTR,Astar
+peanut-the-squirrel,BUY,3.0,HOLD,1.0,HOLD,0.0,PNUT,Peanut the Squirrel
+irys,HOLD,0.0,HOLD,0.0,HOLD,0.0,IRYS,Irys
+metal-blockchain,HOLD,2.0,HOLD,-1.0,HOLD,0.0,METAL,Metal Blockchain
+gmx,HOLD,2.0,HOLD,-1.0,HOLD,0.0,GMX,GMX
+luxxcoin,HOLD,0.0,HOLD,0.0,HOLD,0.0,LUX,Luxxcoin
+venice-token,HOLD,1.0,BUY,3.0,HOLD,0.0,VVV,Venice Token
+pleasing-gold,HOLD,0.0,HOLD,0.0,HOLD,0.0,PGOLD,Pleasing Gold
+succinct,HOLD,1.0,HOLD,0.0,HOLD,0.0,PROVE,Succinct
+berachain-bera,HOLD,0.0,HOLD,-1.0,HOLD,0.0,BERA,Berachain
+axelar,HOLD,1.0,HOLD,1.0,HOLD,0.0,AXL,Axelar
+avantis,HOLD,0.0,HOLD,0.0,HOLD,0.0,AVNT,Avantis
+niza-global-2,HOLD,-1.0,HOLD,0.0,HOLD,0.0,NIZA,Niza Global
+blur,HOLD,2.0,HOLD,0.0,HOLD,0.0,BLUR,Blur
+bio-protocol,HOLD,2.0,HOLD,-2.0,HOLD,0.0,BIO,Bio Protocol
+vicicoin,HOLD,0.0,HOLD,-2.0,HOLD,0.0,VCNT,ViciCoin
+audiera,HOLD,0.0,HOLD,0.0,HOLD,0.0,BEAT,Audiera
+moo-deng,BUY,4.0,HOLD,0.0,HOLD,0.0,MOODENG,Moo Deng
+xyo-network,BUY,4.0,HOLD,1.0,HOLD,0.0,XYO,XYO Network
+zignaly,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,ZIG,ZIGChain
+venom,HOLD,1.0,HOLD,0.0,HOLD,0.0,VENOM,Venom
+hashkey-ecopoints,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,HSK,HashKey Platform Token
+staked-usd1,HOLD,1.0,HOLD,0.0,HOLD,0.0,SUSD1+,staked USD1+
+vethor-token,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,VTHO,VeThor
+vaultbridge-bridged-wbtc-katana,BUY,3.0,HOLD,0.0,HOLD,0.0,VBWBTC,VaultBridge Bridged WBTC (Katana)
+binance-peg-shib,BUY,5.0,HOLD,1.0,HOLD,0.0,SHIB,Binance-Peg SHIB
+chainopera-ai,HOLD,0.0,HOLD,0.0,HOLD,0.0,COAI,ChainOpera AI
+snek,BUY,3.0,HOLD,-1.0,HOLD,0.0,SNEK,Snek
+moonwell-flagship-eth-morpho-vault,HOLD,-1.0,HOLD,1.0,HOLD,0.0,MWETH,Moonwell Flagship ETH (Morpho Vault)
+numeraire,HOLD,0.0,HOLD,-2.0,HOLD,0.0,NMR,Numeraire
+avant-staked-usd,HOLD,2.0,HOLD,2.0,HOLD,0.0,SAVUSD,Avant Staked USD
+request-network,BUY,3.0,HOLD,-2.0,HOLD,0.0,REQ,Request
+superbridge-bridged-wsteth-optimism,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Superbridge Bridged wstETH (Optimism)
+ini,HOLD,0.0,HOLD,0.0,HOLD,0.0,INI,INI
+bc-token,HOLD,0.0,BUY,3.0,HOLD,0.0,BC,BCGame Coin
+verus-coin,HOLD,2.0,HOLD,1.0,HOLD,0.0,VRSC,Verus
+recall,HOLD,0.0,HOLD,0.0,HOLD,0.0,RECALL,Recall
+aelf,HOLD,1.0,HOLD,0.0,HOLD,0.0,ELF,aelf
+home,BUY,4.0,HOLD,1.0,HOLD,0.0,HOME,HOME
+iotex,HOLD,2.0,HOLD,0.0,HOLD,0.0,IOTX,IoTeX
+swop-2,HOLD,0.0,HOLD,1.0,HOLD,0.0,SWOP,Swop
+societe-generale-forge-eurcv,HOLD,2.0,HOLD,2.0,HOLD,0.0,EURCV,EUR CoinVertible
+gama-token,HOLD,2.0,HOLD,0.0,HOLD,0.0,GAMA,Gama Token
+earnausd,HOLD,0.0,HOLD,0.0,HOLD,0.0,EARNAUSD,earnAUSD
+onyc,HOLD,1.0,HOLD,0.0,HOLD,0.0,ONYC,Onchain Yield Coin
+debridge,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,DBR,deBridge
+venus,BUY,4.0,HOLD,1.0,HOLD,0.0,XVS,Venus
+susda,HOLD,1.0,HOLD,0.0,HOLD,0.0,SUSDA,sUSDa
+polymesh,BUY,3.0,BUY,3.0,HOLD,0.0,POLYX,Polymesh
+openeden-open-dollar,BUY,3.0,BUY,3.0,HOLD,0.0,USDO,OpenEden OpenDollar
+ravedao,HOLD,0.0,HOLD,0.0,HOLD,0.0,RAVE,RaveDAO
+helius-staked-sol,HOLD,2.0,HOLD,1.0,HOLD,0.0,HSOL,Helius Staked SOL
+vaneck-treasury-fund,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,VBILL,VanEck Treasury Fund
+burnedfi,HOLD,-2.0,HOLD,1.0,HOLD,0.0,BURN,BurnedFi
+chia,BUY,3.0,HOLD,-2.0,HOLD,0.0,XCH,Chia
+felix-feusd,HOLD,-1.0,HOLD,1.0,HOLD,0.0,FEUSD,Felix feUSD
+redstone-oracles,HOLD,2.0,HOLD,-2.0,HOLD,0.0,RED,RedStone
+unit-pump,HOLD,1.0,HOLD,0.0,HOLD,0.0,UPUMP,Unit Pump
+bridged-wrapped-ether-starkgate,BUY,5.0,HOLD,1.0,HOLD,0.0,ETH,Bridged Ether (StarkGate)
+celo,HOLD,-1.0,HOLD,0.0,HOLD,0.0,CELO,Celo
+vana,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,VANA,Vana
+midas-mhyper,HOLD,2.0,HOLD,0.0,HOLD,0.0,MHYPER,Midas mHYPER
+comedian,BUY,3.0,BUY,3.0,HOLD,0.0,BAN,Comedian
+steakhouse-eth-morpho-vault,BUY,5.0,HOLD,2.0,HOLD,0.0,STEAKETH,Steakhouse ETH Morpho Vault
+sahara-ai,HOLD,0.0,HOLD,1.0,HOLD,0.0,SAHARA,Sahara AI
+okx-wrapped-btc,BUY,4.0,HOLD,1.0,HOLD,0.0,XBTC,OKX Wrapped BTC
+l2-standard-bridged-weth-optimism,BUY,5.0,HOLD,1.0,HOLD,0.0,WETH,L2 Standard Bridged WETH (Optimism)
+centrifuge-2,HOLD,2.0,HOLD,-2.0,HOLD,0.0,CFG,Centrifuge
+ankr,HOLD,2.0,HOLD,0.0,HOLD,0.0,ANKR,Ankr Network
+ore,BUY,5.0,BUY,4.0,HOLD,0.0,ORE,ORE
+puff-the-dragon,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,PUFF,Puff The Dragon
+memecoin-2,BUY,4.0,HOLD,2.0,HOLD,0.0,MEME,Memecoin
+orca,HOLD,0.0,HOLD,-2.0,HOLD,0.0,ORCA,Orca
+pay-coin,HOLD,0.0,HOLD,-1.0,HOLD,0.0,PCI,Paycoin
+space-and-time,HOLD,1.0,HOLD,0.0,HOLD,0.0,SXT,Space and Time
+waves,BUY,3.0,HOLD,0.0,HOLD,0.0,WAVES,Waves
+bridged-wrapped-steth-gnosis,BUY,6.0,HOLD,1.0,HOLD,0.0,WSTETH,Bridged Wrapped stETH (Gnosis)
+geodnet,BUY,4.0,BUY,3.0,HOLD,0.0,GEOD,Geodnet
+matrixdock-gold,BUY,3.0,HOLD,2.0,HOLD,0.0,XAUM,Matrixdock Gold
+tronbank,HOLD,0.0,HOLD,0.0,HOLD,0.0,TBK,TronBank
+omni-network,HOLD,1.0,HOLD,-1.0,HOLD,0.0,OMNI,Omni Network [Old]
+mindwavedao,HOLD,1.0,HOLD,2.0,HOLD,0.0,NILA,MindWaveDAO
+victoria-vr,HOLD,2.0,HOLD,0.0,HOLD,0.0,VR,Victoria VR
+altlayer,HOLD,0.0,HOLD,0.0,HOLD,0.0,ALT,AltLayer
+uma,BUY,3.0,HOLD,-2.0,HOLD,0.0,UMA,UMA
+yei-finance,HOLD,0.0,HOLD,0.0,HOLD,0.0,CLO,Yei Finance
+atomone,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,ATONE,AtomOne
+subsquid,HOLD,1.0,HOLD,0.0,HOLD,0.0,SQD,SQD
+skale,HOLD,2.0,HOLD,-2.0,HOLD,0.0,SKL,SKALE
+casper-network,HOLD,2.0,HOLD,0.0,HOLD,0.0,CSPR,Casper Network
+mask-network,BUY,3.0,HOLD,1.0,HOLD,0.0,MASK,Mask Network
+jelly-my-jelly,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,JELLYJELLY,Jelly-My-Jelly
+solo-coin,BUY,3.0,HOLD,-1.0,HOLD,0.0,SOLO,Sologenic
+pumpbtc,BUY,3.0,HOLD,1.0,HOLD,0.0,PUMPBTC,pumpBTC
+loopring,HOLD,0.0,HOLD,0.0,HOLD,0.0,LRC,Loopring
+avalanche-bridged-weth-avalanche,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,Avalanche Bridged WETH (Avalanche)
+compound-wrapped-btc,BUY,3.0,HOLD,0.0,HOLD,0.0,CWBTC,cWBTC
+siren-2,BUY,4.0,HOLD,2.0,HOLD,0.0,SIREN,Siren
+yooldo-games,HOLD,2.0,HOLD,0.0,HOLD,0.0,ESPORTS,Yooldo Games
+api3,HOLD,1.0,HOLD,-2.0,HOLD,0.0,API3,Api3
+giggle-fund,HOLD,0.0,HOLD,0.0,HOLD,0.0,GIGGLE,Giggle Fund
+unit-plasma,HOLD,0.0,HOLD,0.0,HOLD,0.0,UXPL,Unit Plasma
+icon,HOLD,2.0,HOLD,0.0,HOLD,0.0,ICX,ICON
+mbg-by-multibank-group,HOLD,0.0,HOLD,0.0,HOLD,0.0,MBG,MBG By Multibank Group
+pundi-x-2,BUY,4.0,HOLD,-2.0,HOLD,0.0,PUNDIX,Pundi X
+bitdca,HOLD,2.0,HOLD,-1.0,HOLD,0.0,BDCA,BitDCA
+compounding-open-dollar,HOLD,1.0,HOLD,2.0,HOLD,0.0,CUSDO,Compounding OpenDollar
+sign-global,BUY,3.0,HOLD,1.0,HOLD,0.0,SIGN,Sign
+apex-4,HOLD,0.0,HOLD,0.0,HOLD,0.0,AP3X,APEX
+ardor,BUY,3.0,HOLD,0.0,HOLD,0.0,ARDR,Ardor
+terra-luna-2,HOLD,0.0,HOLD,-1.0,HOLD,0.0,LUNA,Terra
+ethereum-pow-iou,HOLD,2.0,HOLD,-1.0,HOLD,0.0,ETHW,EthereumPoW
+ssv-network,BUY,4.0,HOLD,2.0,HOLD,0.0,SSV,SSV Network
+harmony,BUY,3.0,HOLD,2.0,HOLD,0.0,ONE,Harmony
+sweth,BUY,5.0,HOLD,1.0,HOLD,0.0,SWETH,Swell Ethereum
+lagrange,HOLD,0.0,HOLD,-1.0,HOLD,0.0,LA,Lagrange
+stargate-bridged-usdc,HOLD,0.0,HOLD,0.0,HOLD,0.0,USDC.E,Stargate Bridged USDC
+lcx,HOLD,2.0,HOLD,-2.0,HOLD,0.0,LCX,LCX
+usd-coin-ethereum-bridged,BUY,5.0,BUY,5.0,HOLD,0.0,USDC.E,Arbitrum Bridged USDC (Arbitrum)
+bridged-weth,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,Bridged WETH
+gohome,HOLD,1.0,HOLD,0.0,HOLD,0.0,GOHOME,GOHOME
+fluid-wrapped-staked-eth,HOLD,0.0,HOLD,0.0,HOLD,0.0,FWSTETH,Fluid Wrapped Staked ETH
+status,BUY,3.0,HOLD,1.0,HOLD,0.0,SNT,Status
+notcoin,BUY,4.0,HOLD,1.0,HOLD,0.0,NOT,Notcoin
+staked-usdt,BUY,3.0,BUY,3.0,HOLD,0.0,STUSDT,stUSDT Staked USDT
+restaked-swell-eth,BUY,3.0,HOLD,1.0,HOLD,0.0,RSWETH,Restaked Swell ETH
+enjincoin,HOLD,1.0,HOLD,-1.0,HOLD,0.0,ENJ,Enjin Coin
+ontology,HOLD,2.0,HOLD,-1.0,HOLD,0.0,ONT,Ontology
+tellor,BUY,4.0,HOLD,0.0,HOLD,0.0,TRB,Tellor Tributes
+euler,HOLD,1.0,HOLD,-2.0,HOLD,0.0,EUL,Euler
+band-protocol,HOLD,1.0,HOLD,-2.0,HOLD,0.0,BAND,Band
+bim-2,BUY,6.0,HOLD,2.0,HOLD,0.0,BIM,BIM
+peaq-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,PEAQ,peaq
+apertum,BUY,4.0,HOLD,1.0,HOLD,0.0,APTM,Apertum
+woo-network,BUY,5.0,HOLD,2.0,HOLD,0.0,WOO,WOO
+biconomy,HOLD,2.0,HOLD,0.0,HOLD,0.0,BICO,Biconomy
+wrapped-cro,BUY,4.0,HOLD,0.0,HOLD,0.0,WCRO,Wrapped CRO
+nockchain,HOLD,0.0,HOLD,0.0,HOLD,0.0,NOCK,Nockchain
+iostoken,BUY,4.0,HOLD,1.0,HOLD,0.0,IOST,IOST
+usdx,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,USDX,USDX
+neiro-3,BUY,5.0,HOLD,1.0,HOLD,0.0,NEIRO,Neiro
+dfdv-staked-sol,HOLD,2.0,HOLD,0.0,HOLD,0.0,DFDVSOL,DFDV Staked SOL
+world-assets,HOLD,0.0,HOLD,0.0,HOLD,0.0,INC,WorldAssets
+deso,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,DESO,Decentralized Social
+illuvium,HOLD,1.0,HOLD,-2.0,HOLD,0.0,ILV,Illuvium
+cysic,HOLD,0.0,HOLD,0.0,HOLD,0.0,CYS,Cysic
+apex-token-2,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,APEX,APEX
+vaultbridge-bridged-eth-katana,BUY,6.0,HOLD,0.0,HOLD,0.0,VBETH,VaultBridge Bridged ETH (Katana)
+black-phoenix,BUY,3.0,HOLD,-1.0,HOLD,0.0,BPX,Black Phoenix
+binance-peg-zcash-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,ZEC,Binance-Peg ZEC
+frax-share,HOLD,2.0,HOLD,0.0,HOLD,0.0,FRAX,Frax (prev. FXS)
+coti,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,COTI,COTI
+slash-vision-labs,HOLD,0.0,HOLD,-1.0,HOLD,0.0,SVL,Slash Vision Labs
+anvil,HOLD,2.0,HOLD,0.0,HOLD,0.0,ANVL,Anvil
+plume,HOLD,0.0,HOLD,-1.0,HOLD,0.0,PLUME,Plume
+spark-2,HOLD,1.0,HOLD,-1.0,HOLD,0.0,SPK,Spark
+chex-token,BUY,3.0,BUY,3.0,HOLD,0.0,CHEX,Chintai
+bora,BUY,5.0,BUY,3.0,HOLD,0.0,BORA,BORA
+babylon,HOLD,1.0,HOLD,-1.0,HOLD,0.0,BABY,Babylon
+stargate-bridged-weth,HOLD,0.0,HOLD,0.0,HOLD,0.0,WETH,Stargate Bridged WETH
+constitutiondao,BUY,3.0,HOLD,1.0,HOLD,0.0,PEOPLE,ConstitutionDAO
+changenow,HOLD,1.0,HOLD,2.0,HOLD,0.0,NOW,ChangeNOW
+magic-internet-money,BUY,3.0,BUY,4.0,HOLD,0.0,MIM,Magic Internet Money (Ethereum)
+tether-gold-tokens,HOLD,2.0,HOLD,2.0,HOLD,0.0,XAUT0,Tether Gold Tokens
+ark,BUY,3.0,HOLD,0.0,HOLD,0.0,ARK,ARK
+onfa,HOLD,-2.0,HOLD,0.0,HOLD,0.0,OFT,ONFA
+carv,HOLD,2.0,HOLD,-2.0,HOLD,0.0,CARV,CARV
+stronghold-token,BUY,5.0,HOLD,1.0,HOLD,0.0,SHX,Stronghold
+firelight-staked-xrp,HOLD,0.0,HOLD,0.0,HOLD,0.0,STXRP,Firelight Staked XRP
+tokenlon,BUY,4.0,HOLD,2.0,HOLD,0.0,LON,Tokenlon
+orbs,HOLD,2.0,HOLD,1.0,HOLD,0.0,ORBS,Orbs
+book-of-meme,BUY,5.0,HOLD,2.0,HOLD,0.0,BOME,BOOK OF MEME
+planet-ix,HOLD,0.0,HOLD,0.0,HOLD,0.0,AIX,Planet IX
+swftcoin,BUY,4.0,BUY,3.0,HOLD,0.0,SWFTC,SWFTCOIN
+hive,HOLD,2.0,HOLD,0.0,HOLD,0.0,HIVE,Hive
+law-blocks,BUY,3.0,HOLD,1.0,HOLD,0.0,LBT,Law Blocks
+quantixai,HOLD,1.0,HOLD,-1.0,HOLD,0.0,QAI,QuantixAI
+escoin-token,BUY,4.0,BUY,3.0,HOLD,0.0,ELG,Escoin
+degen-base,BUY,4.0,HOLD,1.0,HOLD,0.0,DEGEN,Degen
+fulcrom,BUY,3.0,HOLD,-2.0,HOLD,0.0,FUL,Fulcrom
+helder,BUY,4.0,BUY,4.0,HOLD,0.0,HLDR,Helder
+tesla-xstock,HOLD,-1.0,HOLD,1.0,HOLD,0.0,TSLAX,Tesla xStock
+power-ledger,BUY,3.0,HOLD,2.0,HOLD,0.0,POWR,Powerledger
+ridges-ai,HOLD,2.0,HOLD,-1.0,HOLD,0.0,SN62,Ridges AI
+huma-finance,BUY,3.0,BUY,3.0,HOLD,0.0,HUMA,Huma Finance
+mezo-wrapped-btc,HOLD,1.0,HOLD,0.0,HOLD,0.0,BTC,Mezo Wrapped BTC
+marsmi,HOLD,2.0,HOLD,0.0,HOLD,0.0,MARSMI,MarsMi
+dialectic-usd-vault,HOLD,0.0,HOLD,0.0,HOLD,0.0,DUSD,Dialectic USD Vault
+celium,HOLD,1.0,HOLD,-2.0,HOLD,0.0,SN51,lium
+mass-vehicle-ledger,HOLD,2.0,BUY,3.0,HOLD,0.0,MVL,MVL
+resupply-usd,HOLD,1.0,HOLD,-1.0,HOLD,0.0,REUSD,Resupply USD
+tagger,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,TAG,TAGGER
+zedxion,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,ZEDXION,Zedxion
+bitcastle-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,BCE,bitcastle Token
+momentum-3,HOLD,0.0,HOLD,0.0,HOLD,0.0,MMT,Momentum
+constellation-labs,HOLD,0.0,HOLD,0.0,HOLD,0.0,DAG,Constellation
+iexec-rlc,HOLD,1.0,HOLD,0.0,HOLD,0.0,RLC,iExec RLC
+hex-trust-usdx,HOLD,1.0,HOLD,-2.0,HOLD,0.0,USDX,Hex Trust USD
+stepn,HOLD,1.0,HOLD,0.0,HOLD,0.0,GMT,GMT
+usdkg,HOLD,0.0,HOLD,0.0,HOLD,0.0,USDKG,USDKG
+ronin-bridged-weth-ronin,BUY,5.0,HOLD,1.0,HOLD,0.0,WETH,Ronin Bridged WETH (Ronin)
+sui-bridged-ether-sui,BUY,6.0,BUY,3.0,HOLD,0.0,SBETH,Sui Bridged Ether (Sui)
+fx-usd-saving,HOLD,2.0,HOLD,0.0,HOLD,0.0,FXSAVE,f(x) USD Saving
+smardex,HOLD,2.0,BUY,3.0,HOLD,0.0,SDEX,SMARDEX
+dovu-2,BUY,3.0,BUY,3.0,HOLD,0.0,DOVU,DOVU
+infrared-bera,HOLD,0.0,HOLD,-1.0,HOLD,0.0,IBERA,Infrared Bera
+kinetiq-earn-vault,HOLD,0.0,HOLD,0.0,HOLD,0.0,VKHYPE,Kinetiq Earn Vault
+gold-park,HOLD,-1.0,HOLD,0.0,HOLD,0.0,GPT,Gold Park
+pythia,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,PYTHIA,PYTHIA
+pirate-chain,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,ARRR,Pirate Chain
+destra-network,BUY,5.0,BUY,4.0,HOLD,0.0,DSYNC,Destra Network
+folks,HOLD,0.0,HOLD,0.0,HOLD,0.0,FOLKS,FOLKS
+whiteheart,HOLD,1.0,HOLD,0.0,HOLD,0.0,WHITE,Whiteheart
+world-mobile-token,HOLD,0.0,HOLD,1.0,HOLD,0.0,WMTX,World Mobile Token
+ecomi,HOLD,1.0,HOLD,1.0,HOLD,0.0,OMI,ECOMI
+nkyc-token,BUY,5.0,HOLD,1.0,HOLD,0.0,NKYC,NKYC Token
+mountain-protocol-usdm,BUY,3.0,HOLD,1.0,HOLD,0.0,USDM,Mountain Protocol USD
+certik,BUY,3.0,BUY,3.0,HOLD,0.0,CTK,Shentu
+alchemy-pay,HOLD,2.0,HOLD,-2.0,HOLD,0.0,ACH,Alchemy Pay
+straitsx-xusd,SELL,-3.0,SELL,-3.0,HOLD,0.0,XUSD,StraitsX XUSD
+usd,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,USD+,Overnight.fi USD+
+harrypotterobamasonic10in,HOLD,2.0,HOLD,0.0,HOLD,0.0,BITCOIN,HarryPotterObamaSonic10Inu (ETH)
+spell-token,BUY,4.0,HOLD,2.0,HOLD,0.0,SPELL,Spell
+power-protocol,HOLD,0.0,HOLD,0.0,HOLD,0.0,POWER,Power Protocol
+yield-guild-games,HOLD,1.0,HOLD,-1.0,HOLD,0.0,YGG,Yield Guild Games
+stargate-finance,BUY,4.0,HOLD,0.0,HOLD,0.0,STG,Stargate Finance
+paxos-standard,SELL,-3.0,SELL,-3.0,HOLD,0.0,USDP,Pax Dollar
+lista,HOLD,0.0,HOLD,-1.0,HOLD,0.0,LISTA,Lista DAO
+energy-web-token,HOLD,1.0,HOLD,0.0,HOLD,0.0,EWT,Energy Web
+amnis-aptos,HOLD,2.0,HOLD,-1.0,HOLD,0.0,AMAPT,Amnis Aptos
+rocket-pool,HOLD,2.0,HOLD,-1.0,HOLD,0.0,RPL,Rocket Pool
+bancor,HOLD,2.0,HOLD,-1.0,HOLD,0.0,BNT,Bancor Network
+coinbase-wrapped-xrp,BUY,6.0,BUY,3.0,HOLD,0.0,CBXRP,Coinbase Wrapped XRP
+sygnum-fiusd-liquidity-fund,HOLD,1.0,HOLD,1.0,HOLD,0.0,FIUSD,Sygnum FIUSD Liquidity Fund
+yzy,HOLD,2.0,HOLD,0.0,HOLD,0.0,YZY,YZY
+collect-on-fanable,HOLD,0.0,HOLD,0.0,HOLD,0.0,COLLECT,Collect on Fanable
+bridged-wrapped-bitcoin-starkgate,BUY,4.0,HOLD,0.0,HOLD,0.0,WBTC,Bridged Wrapped Bitcoin (StarkGate)
+stratis,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,STRAX,Xertra
+lisk,HOLD,0.0,HOLD,1.0,HOLD,0.0,LSK,Lisk
+swipe,HOLD,1.0,HOLD,0.0,HOLD,0.0,SXP,Solar
+doodles,BUY,3.0,BUY,3.0,HOLD,0.0,DOOD,Doodles
+cronos-bridged-wbtc-cronos,BUY,4.0,HOLD,1.0,HOLD,0.0,WBTC,Cronos Bridged WBTC (Cronos)
+zelcash,HOLD,0.0,HOLD,-2.0,HOLD,0.0,FLUX,Flux
+gigachad-2,HOLD,1.0,HOLD,0.0,HOLD,0.0,GIGA,Gigachad
+gemini-dollar,HOLD,2.0,SELL,-3.0,HOLD,0.0,GUSD,Gemini Dollar
+wrapped-bitcoin-pulsechain,HOLD,1.0,HOLD,-2.0,HOLD,0.0,WBTC,Wrapped Bitcoin (PulseChain)
+storx,BUY,3.0,HOLD,0.0,HOLD,0.0,SRX,StorX
+derive,BUY,3.0,HOLD,2.0,HOLD,0.0,DRV,Derive
+safecoin,HOLD,1.0,HOLD,0.0,HOLD,0.0,SAFE,SAFEbit
+osmosis,HOLD,1.0,HOLD,0.0,HOLD,0.0,OSMO,Osmosis
+targon,BUY,4.0,HOLD,-1.0,HOLD,0.0,SN4,Targon
+tornado-cash,HOLD,2.0,HOLD,-1.0,HOLD,0.0,TORN,Tornado Cash
+sai,BUY,5.0,HOLD,1.0,HOLD,0.0,SAI,Sai
+echelon-prime,HOLD,0.0,HOLD,-1.0,HOLD,0.0,PRIME,Echelon Prime
+strata-junior-usde,HOLD,0.0,HOLD,0.0,HOLD,0.0,JRUSDE,Strata Junior USDe
+delysium,BUY,5.0,HOLD,2.0,HOLD,0.0,AGI,Delysium
+rserg,HOLD,0.0,HOLD,-1.0,HOLD,0.0,RSERG,rsERG
+quai-network,HOLD,1.0,HOLD,1.0,HOLD,0.0,QUAI,Quai Network
+tokamak-network,HOLD,0.0,HOLD,-2.0,HOLD,0.0,TON,Tokamak Network
+audius,HOLD,1.0,HOLD,0.0,HOLD,0.0,AUDIO,Audius
+io,HOLD,1.0,HOLD,0.0,HOLD,0.0,IO,io.net
+usual,BUY,4.0,HOLD,2.0,HOLD,0.0,USUAL,Usual
+cyberconnect,HOLD,1.0,HOLD,-2.0,HOLD,0.0,CYBER,CYBER
+ondo-u-s-dollar-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,USDON,Ondo U.S. Dollar Token
+proprietary-trading-network,BUY,4.0,BUY,4.0,HOLD,0.0,SN8,Proprietary Trading Network
+cjournal-2,HOLD,1.0,HOLD,2.0,HOLD,0.0,CJL,CJournal
+hivemapper,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,HONEY,Hivemapper
+aegis-yusd,HOLD,1.0,HOLD,-2.0,HOLD,0.0,YUSD,Aegis YUSD
+bridged-nxpc,HOLD,0.0,HOLD,0.0,HOLD,0.0,NXPC,Bridged NXPC
+atoshi,HOLD,0.0,HOLD,-1.0,HOLD,0.0,ATOS,Atoshi
+cross-2,HOLD,2.0,HOLD,0.0,HOLD,0.0,CROSS,CROSS
+sui-bridged-usdt-sui,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,SBUSDT,Sui Bridged USDT (Sui)
+kyber-network-crystal,HOLD,2.0,HOLD,-2.0,HOLD,0.0,KNC,Kyber Network Crystal
+moonwell-flagship-usdc-morpho-vault,HOLD,0.0,HOLD,0.0,HOLD,0.0,MWUSDC,Moonwell Flagship USDC (Morpho Vault)
+kelp-gain,BUY,5.0,HOLD,1.0,HOLD,0.0,AGETH,Kelp Gain
+everipedia,HOLD,1.0,HOLD,0.0,HOLD,0.0,IQ,IQ
+somnia,HOLD,1.0,HOLD,0.0,HOLD,0.0,SOMI,Somnia
+anime,HOLD,2.0,HOLD,1.0,HOLD,0.0,ANIME,Animecoin
+anoma,HOLD,0.0,HOLD,0.0,HOLD,0.0,XAN,Anoma
+austin-capitals,HOLD,1.0,HOLD,-1.0,HOLD,0.0,AUX,Austin Capitals
+big-time,HOLD,1.0,HOLD,1.0,HOLD,0.0,BIGTIME,Big Time
+blast,HOLD,2.0,HOLD,0.0,HOLD,0.0,BLAST,Blast
+socean-staked-sol,BUY,3.0,HOLD,0.0,HOLD,0.0,INF,Sanctum Infinity
+sui-bridged-wbtc-sui,BUY,3.0,HOLD,0.0,HOLD,0.0,WBTC,Sui Bridged WBTC (Sui)
+yuzu-usd,HOLD,0.0,HOLD,0.0,HOLD,0.0,YZUSD,Yuzu USD
+banana-for-scale-2,BUY,3.0,BUY,3.0,HOLD,0.0,BANANAS31,Banana For Scale
+milk-alliance,BUY,3.0,BUY,3.0,HOLD,0.0,MLK,MiL.k
+optio,HOLD,-2.0,HOLD,0.0,HOLD,0.0,OPT,Optio
+glidr,HOLD,0.0,HOLD,0.0,HOLD,0.0,GLIDR,Glidr
+gogopool-ggavax,HOLD,2.0,HOLD,1.0,HOLD,0.0,STAVAX,Hypha Staked AVAX
+humidifi,HOLD,0.0,HOLD,0.0,HOLD,0.0,WET,HumidiFi
+goatseus-maximus,BUY,4.0,HOLD,0.0,HOLD,0.0,GOAT,Goatseus Maximus
+wax,HOLD,2.0,HOLD,1.0,HOLD,0.0,WAXP,WAX
+skyai,BUY,3.0,BUY,3.0,HOLD,0.0,SKYAI,SkyAI
+songbird,BUY,3.0,HOLD,-1.0,HOLD,0.0,SGB,Songbird
+kgen,HOLD,0.0,HOLD,0.0,HOLD,0.0,KGEN,KGeN
+liquity-bold-2,BUY,4.0,HOLD,2.0,HOLD,0.0,BOLD,BOLD
+unipoly,BUY,3.0,HOLD,2.0,HOLD,0.0,UNP,Unipoly
+steem,HOLD,2.0,HOLD,2.0,HOLD,0.0,STEEM,Steem
+ong,HOLD,2.0,HOLD,2.0,HOLD,0.0,ONG,Ontology Gas
+usd-coin-avalanche-bridged-usdc-e,HOLD,2.0,HOLD,2.0,HOLD,0.0,USDC.E,Avalanche Bridged USDC (Avalanche)
+noble-dollar-usdn,SELL,-3.0,SELL,-4.0,HOLD,0.0,USDN,Noble Dollar (USDN)
+auction,HOLD,1.0,HOLD,-1.0,HOLD,0.0,AUCTION,Bounce
+yield-basis,HOLD,0.0,HOLD,0.0,HOLD,0.0,YB,Yield Basis
+hermez-network-token,BUY,3.0,HOLD,1.0,HOLD,0.0,HEZ,Hermez Network
+terrausd,BUY,4.0,HOLD,1.0,HOLD,0.0,USTC,TerraClassicUSD
+wrapped-xrp,BUY,6.0,HOLD,2.0,HOLD,0.0,WXRP,Wrapped XRP
+sanctum-2,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,CLOUD,Cloud
+liquity,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,LQTY,Liquity
+purr-2,HOLD,2.0,HOLD,-1.0,HOLD,0.0,PURR,Purr
+midas-mtbill,BUY,3.0,HOLD,2.0,HOLD,0.0,MTBILL,Midas mTBILL
+metis-token,HOLD,0.0,HOLD,-2.0,HOLD,0.0,METIS,Metis
+btu-protocol,HOLD,1.0,HOLD,-2.0,HOLD,0.0,BTU,BTU Protocol
+zkpass,HOLD,0.0,HOLD,0.0,HOLD,0.0,ZKP,zkPass
+ergo,HOLD,0.0,HOLD,-2.0,HOLD,0.0,ERG,Ergo
+osaka-protocol,HOLD,2.0,HOLD,-1.0,HOLD,0.0,OSAK,Osaka Protocol
+chromaway,HOLD,2.0,HOLD,-1.0,HOLD,0.0,CHR,Chromia
+ink-bridged-weth-ink,BUY,6.0,HOLD,1.0,HOLD,0.0,WETH,Ink Bridged WETH (Ink)
+aevo-exchange,HOLD,2.0,HOLD,-1.0,HOLD,0.0,AEVO,Aevo
+dia-data,BUY,3.0,HOLD,0.0,HOLD,0.0,DIA,DIA
+the-grays-currency,BUY,3.0,HOLD,1.0,HOLD,0.0,PTGC,The Grays Currency
+aixbt,HOLD,0.0,HOLD,-2.0,HOLD,0.0,AIXBT,aixbt
+nirvana-ana-2,HOLD,1.0,HOLD,0.0,HOLD,0.0,ANA,Nirvana ANA
+grx-chain,HOLD,0.0,HOLD,0.0,HOLD,0.0,GRX,GRX Chain
+taiko,HOLD,1.0,HOLD,0.0,HOLD,0.0,TAIKO,Taiko
+openledger-2,HOLD,0.0,HOLD,0.0,HOLD,0.0,OPEN,OpenLedger
+uscr,HOLD,0.0,HOLD,0.0,HOLD,0.0,USCR,USCR
+fractal-bitcoin,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,FB,Fractal Bitcoin
+xpin-network,HOLD,2.0,HOLD,0.0,HOLD,0.0,XPIN,XPIN Network
+helio-protocol-hay,HOLD,1.0,HOLD,-1.0,HOLD,0.0,LISUSD,Lista USD
+gxchain,HOLD,1.0,BUY,3.0,HOLD,0.0,GXC,GXChain
+project-galaxy,HOLD,-1.0,HOLD,0.0,HOLD,0.0,GAL,GAL (migrated to Gravity - G)
+hakimi,HOLD,0.0,HOLD,0.0,HOLD,0.0,哈基米,哈基米 (Hajimi)
+unifai-network,HOLD,0.0,HOLD,0.0,HOLD,0.0,UAI,UnifAI Network
+civic,HOLD,0.0,HOLD,-1.0,HOLD,0.0,CVC,Civic
+corn-3,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,CORN,Corn
+snowbank,HOLD,1.0,BUY,3.0,HOLD,0.0,SB,Snowbank
+hylo-usd,HOLD,-2.0,HOLD,0.0,HOLD,0.0,HYUSD,Hylo USD
+solayer,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,LAYER,Solayer
+moonwell-artemis,HOLD,1.0,HOLD,-2.0,HOLD,0.0,WELL,Moonwell
+nusd,HOLD,0.0,HOLD,1.0,HOLD,0.0,SUSD,Synthetix sUSD
+manta-network,HOLD,1.0,HOLD,-1.0,HOLD,0.0,MANTA,Manta Network
+rif-token,BUY,3.0,HOLD,1.0,HOLD,0.0,RIF,Rootstock Infrastructure Framework
+botxcoin,HOLD,1.0,HOLD,1.0,HOLD,0.0,BOTX,BOTXCOIN
+sats-ordinals,HOLD,2.0,HOLD,0.0,HOLD,0.0,SATS,SATS (Ordinals)
+apro,HOLD,0.0,HOLD,0.0,HOLD,0.0,AT,Apro
+minidoge-5,HOLD,1.0,HOLD,0.0,HOLD,0.0,MINIDOGE,Minidoge
+lava-network,HOLD,-2.0,HOLD,1.0,HOLD,0.0,LAVA,Lava Network
+orderly-network,HOLD,0.0,HOLD,-1.0,HOLD,0.0,ORDER,Orderly
+wrapped-nxm,BUY,4.0,HOLD,1.0,HOLD,0.0,WNXM,Wrapped NXM
+bonfida,HOLD,1.0,HOLD,-2.0,HOLD,0.0,FIDA,Bonfida
+tokenbot-2,HOLD,1.0,HOLD,-1.0,HOLD,0.0,CLANKER,tokenbot
+caldera,HOLD,0.0,HOLD,0.0,HOLD,0.0,ERA,Caldera
+cobak-token,HOLD,0.0,HOLD,-2.0,HOLD,0.0,CBK,Cobak
+g-token,HOLD,1.0,HOLD,0.0,HOLD,0.0,G,Gravity (by Galxe)
+punkstrategy,BUY,5.0,HOLD,0.0,HOLD,0.0,PNKSTR,PunkStrategy
+blockv,HOLD,0.0,HOLD,0.0,HOLD,0.0,VEE,BLOCKv
+secret,HOLD,-2.0,HOLD,0.0,HOLD,0.0,SCRT,Secret
+balancer,HOLD,1.0,HOLD,-1.0,HOLD,0.0,BAL,Balancer
+vaultbridge-bridged-usdc-katana,BUY,3.0,HOLD,0.0,HOLD,0.0,VBUSDC,VaultBridge Bridged USDC (Katana)
+zentry,HOLD,1.0,HOLD,0.0,HOLD,0.0,ZENT,Zentry
+agentlisa,HOLD,0.0,HOLD,0.0,HOLD,0.0,LISA,AgentLISA
+universal-eth,BUY,4.0,HOLD,2.0,HOLD,0.0,UNIETH,Universal ETH
+celo-dollar,BUY,3.0,HOLD,-2.0,HOLD,0.0,CUSD,Celo Dollar
+sosana,HOLD,2.0,HOLD,0.0,HOLD,0.0,SOSANA,SOSANA
+hive_dollar,HOLD,2.0,HOLD,2.0,HOLD,0.0,HBD,Hive Dollar
+coreum,HOLD,2.0,HOLD,0.0,HOLD,0.0,COREUM,Coreum
+georgeplaysclashroyale,HOLD,0.0,HOLD,0.0,HOLD,0.0,CLASH,GeorgePlaysClashRoyale
+across-protocol,HOLD,1.0,HOLD,0.0,HOLD,0.0,ACX,Across Protocol
+auki-labs,HOLD,1.0,HOLD,-2.0,HOLD,0.0,AUKI,Auki
+metal,HOLD,1.0,HOLD,0.0,HOLD,0.0,MTL,Metal DAO
+liquity-usd,BUY,4.0,HOLD,2.0,HOLD,0.0,LUSD,Liquity USD
+token-pocket,HOLD,2.0,HOLD,-1.0,HOLD,0.0,TPT,TokenPocket Token
+aurora-near,HOLD,1.0,HOLD,-2.0,HOLD,0.0,AURORA,Aurora
+deapcoin,HOLD,2.0,HOLD,0.0,HOLD,0.0,DEP,DEAPCOIN
+ventuals-vhype,HOLD,0.0,HOLD,0.0,HOLD,0.0,VHYPE,Ventuals vHYPE
+linea-bridged-wsteth-linea,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Linea Bridged wstETH (Linea)
+wrapped-bch,HOLD,1.0,HOLD,2.0,HOLD,0.0,WBCH,Wrapped BCH
+gamebuild,HOLD,0.0,HOLD,-1.0,HOLD,0.0,GAME,GameBuild
+bit2me,HOLD,-2.0,HOLD,0.0,HOLD,0.0,B2M,Bit2Me
+unit-fartcoin,BUY,3.0,HOLD,0.0,HOLD,0.0,UFART,Unit Fartcoin
+wojak-4,HOLD,0.0,HOLD,0.0,HOLD,0.0,WOJAK,Wojak
+affine,HOLD,0.0,HOLD,0.0,HOLD,0.0,SN120,affine
+aintivirus,HOLD,0.0,HOLD,0.0,HOLD,0.0,AINTI,AIntivirus
+ai-analysis-token,BUY,4.0,HOLD,1.0,HOLD,0.0,AIAT,AI Analysis Token
+f-x-protocol-fxusd,BUY,4.0,BUY,3.0,HOLD,0.0,FXUSD,f(x) Protocol fxUSD
+elizaos,HOLD,0.0,HOLD,0.0,HOLD,0.0,ELIZAOS,ElizaOS
+marlin,HOLD,2.0,HOLD,-1.0,HOLD,0.0,POND,Marlin
+polygon-bridged-wsteth-polygon,BUY,5.0,HOLD,1.0,HOLD,0.0,WSTETH,Polygon Bridged wstETH (Polygon)
+xai-blockchain,HOLD,1.0,HOLD,0.0,HOLD,0.0,XAI,Xai
+pumpmeme,BUY,3.0,HOLD,0.0,HOLD,0.0,PM,PumpMeme
+wrapped-sei,HOLD,2.0,HOLD,-1.0,HOLD,0.0,WSEI,Wrapped SEI
+pha,HOLD,2.0,HOLD,0.0,HOLD,0.0,PHA,PHALA
+yield-optimizer-eth,BUY,5.0,HOLD,1.0,HOLD,0.0,YOETH,Yield Optimizer ETH
+ocean-protocol,HOLD,-2.0,HOLD,-1.0,HOLD,0.0,OCEAN,Ocean Protocol
+avalanche-old-bridged-wbtc-avalanche,BUY,3.0,HOLD,0.0,HOLD,0.0,WBTC.E,Avalanche Bridged WBTC (Avalanche)
+mango-network,HOLD,1.0,HOLD,-1.0,HOLD,0.0,MGO,Mango Network
+ai-rig-complex,HOLD,2.0,HOLD,2.0,HOLD,0.0,ARC,AI Rig Complex
+xtusd,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,XTUSD,XT Stablecoin XTUSD
+ao-computer,HOLD,1.0,HOLD,-1.0,HOLD,0.0,AO,ao Computer
+honey-3,BUY,3.0,HOLD,0.0,HOLD,0.0,HONEY,Honey
+bifrost,HOLD,1.0,HOLD,0.0,HOLD,0.0,BFC,Bifrost
+cartesi,HOLD,1.0,HOLD,-2.0,HOLD,0.0,CTSI,Cartesi
+avici,HOLD,0.0,HOLD,0.0,HOLD,0.0,AVICI,Avici
+bridged-usd-coin-optimism,SELL,-3.0,HOLD,-2.0,HOLD,0.0,USDC.E,Standard Bridged USDC.e (Optimism)
+singularitynet,BUY,5.0,HOLD,2.0,HOLD,0.0,AGIX,SingularityNET
+real-token,HOLD,0.0,HOLD,0.0,HOLD,0.0,REAL,Real Token
+troll-2,HOLD,1.0,HOLD,-1.0,HOLD,0.0,TROLL,TROLL
+dymension,HOLD,0.0,HOLD,-1.0,HOLD,0.0,DYM,Dymension
+wiki-cat,HOLD,1.0,HOLD,-1.0,HOLD,0.0,WKC,Wiki Cat
+b3,HOLD,2.0,HOLD,-1.0,HOLD,0.0,B3,B3 (Base)
+quark-chain,HOLD,2.0,HOLD,0.0,HOLD,0.0,QKC,QuarkChain
+ustbl-tokenized-u-s-treasury-bill,HOLD,0.0,HOLD,0.0,HOLD,0.0,USTBL,USTBL
+wilder-world,HOLD,2.0,HOLD,-1.0,HOLD,0.0,WILD,Wilder World
+chain-key-bitcoin,BUY,4.0,HOLD,1.0,HOLD,0.0,CKBTC,Chain-key Bitcoin
+global-commercial-business,HOLD,0.0,HOLD,0.0,HOLD,0.0,GCB,Global Commercial Business
+amiko,BUY,3.0,HOLD,2.0,HOLD,0.0,AMIKO,Amiko
+xtcom-token,BUY,4.0,HOLD,0.0,HOLD,0.0,XT,XT.com
+dkargo,HOLD,2.0,HOLD,1.0,HOLD,0.0,DKA,dKargo
+aura-on-sol,HOLD,1.0,HOLD,-2.0,HOLD,0.0,AURA,aura
+cargox,BUY,4.0,BUY,3.0,HOLD,0.0,CXO,CargoX
+ponke,BUY,5.0,BUY,3.0,HOLD,0.0,PONKE,PONKE
+sdola,HOLD,2.0,HOLD,2.0,HOLD,0.0,SDOLA,sDOLA
+seth,HOLD,2.0,HOLD,-2.0,HOLD,0.0,SETH,sETH
+magic,HOLD,0.0,HOLD,-2.0,HOLD,0.0,MAGIC,Treasure
+dacxi,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,DXI,Dacxi
+dialectic-eth-vault,HOLD,0.0,HOLD,0.0,HOLD,0.0,DETH,Dialectic ETH Vault
+pinksale,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,PINKSALE,PinkSale
+astherus-staked-usdf,HOLD,1.0,HOLD,2.0,HOLD,0.0,ASUSDF,Aster Staked USDF
+advertise-coin,BUY,6.0,HOLD,1.0,HOLD,0.0,ADCO,Advertise Coin
+smooth-love-potion,HOLD,1.0,HOLD,-1.0,HOLD,0.0,SLP,Smooth Love Potion
+babyboomtoken,HOLD,2.0,BUY,3.0,HOLD,0.0,BBT,BabyBoomToken
+hunt-token,HOLD,0.0,HOLD,-1.0,HOLD,0.0,HUNT,Hunt
+aergo,HOLD,2.0,HOLD,2.0,HOLD,0.0,AERGO,Aergo
+zerobase,HOLD,0.0,HOLD,0.0,HOLD,0.0,ZBT,ZEROBASE
+kujira,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,KUJI,Kujira
+metaplex,HOLD,0.0,HOLD,-2.0,HOLD,0.0,MPLX,Metaplex
+bonk-staked-sol,HOLD,2.0,HOLD,0.0,HOLD,0.0,BONKSOL,Bonk Staked SOL
+marinade,HOLD,2.0,HOLD,-2.0,HOLD,0.0,MNDE,Marinade
+hylo-staked-sol,HOLD,0.0,HOLD,0.0,HOLD,0.0,HYLOSOL,Hylo Staked SOL
+wrapped-btt-tron,HOLD,0.0,HOLD,-1.0,HOLD,0.0,WBTT,Wrapped BTT (Tron)
+wrapped-tao,HOLD,2.0,HOLD,0.0,HOLD,0.0,WTAO,Wrapped TAO
+sonic-svm,HOLD,2.0,HOLD,0.0,HOLD,0.0,SONIC,Sonic SVM
+clearpool,HOLD,-1.0,HOLD,-2.0,HOLD,0.0,CPOOL,Clearpool
+tether-rainbow-bridge,HOLD,2.0,HOLD,0.0,HOLD,0.0,USDT.E,Rainbow Bridged USDT (Near)
+stbl,HOLD,0.0,HOLD,0.0,HOLD,0.0,STBL,STBL
+vine,HOLD,2.0,HOLD,0.0,HOLD,0.0,VINE,Vine
+space-id,HOLD,2.0,HOLD,1.0,HOLD,0.0,ID,SPACE ID
+banana-gun,HOLD,0.0,HOLD,-1.0,HOLD,0.0,BANANA,Banana Gun
+mira-3,HOLD,0.0,HOLD,0.0,HOLD,0.0,MIRA,Mira
+bitcoin-hyper-5,HOLD,0.0,HOLD,0.0,HOLD,0.0,HYPER,Bitcoin Hyper
+hippo-protocol,HOLD,2.0,HOLD,0.0,HOLD,0.0,HP,Hippo Protocol
+yield-optimizer-usd,HOLD,2.0,HOLD,2.0,HOLD,0.0,YOUSD,Yield Optimizer USD
+qanplatform,HOLD,0.0,HOLD,-2.0,HOLD,0.0,QANX,QANplatform
+wmatic,BUY,3.0,HOLD,0.0,HOLD,0.0,WPOL,Wrapped POL
+templar,BUY,5.0,HOLD,2.0,HOLD,0.0,SN3,τemplar
+electronic-usd,HOLD,2.0,HOLD,-1.0,HOLD,0.0,EUSD,Electronic USD
+vaultbridge-bridged-usdt-katana,BUY,3.0,HOLD,0.0,HOLD,0.0,VBUSDT,Vault Bridge Bridged USDT (Katana)
+gains-network,HOLD,1.0,HOLD,-2.0,HOLD,0.0,GNS,Gains Network
+dora-2,HOLD,-2.0,HOLD,0.0,HOLD,0.0,DORA,DORA
+chaingpt,HOLD,2.0,HOLD,-1.0,HOLD,0.0,CGPT,ChainGPT
+medibloc,HOLD,1.0,HOLD,0.0,HOLD,0.0,MED,Medibloc
+six,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,SIX,Six Sigma
+iagon,HOLD,-1.0,HOLD,0.0,HOLD,0.0,IAG,Iagon
+ankreth,BUY,3.0,HOLD,0.0,HOLD,0.0,ANKRETH,Ankr Staked ETH
+incrypt,BUY,3.0,BUY,3.0,HOLD,0.0,INC,Incrypt
+lorenzo-stbtc,HOLD,2.0,HOLD,0.0,HOLD,0.0,STBTC,Lorenzo stBTC
+quack-ai,BUY,4.0,HOLD,0.0,HOLD,0.0,Q,Quack AI
+tree-capital,HOLD,2.0,HOLD,2.0,HOLD,0.0,TREE,Tree
+bsquared-network,HOLD,0.0,HOLD,-2.0,HOLD,0.0,B2,BSquared Network
+czs-dog,HOLD,1.0,BUY,4.0,HOLD,0.0,BROCCOLI,CZ's Dog
+gunz,BUY,4.0,HOLD,1.0,HOLD,0.0,GUN,Gunz
+nym,HOLD,0.0,HOLD,-1.0,HOLD,0.0,NYM,Nym
+wink,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,WIN,WINkLink
+tcy,BUY,3.0,HOLD,2.0,HOLD,0.0,TCY,THORChain Yield
+dogelon-mars,HOLD,2.0,HOLD,0.0,HOLD,0.0,ELON,Dogelon Mars
+cookie,HOLD,2.0,HOLD,-1.0,HOLD,0.0,COOKIE,Cookie DAO
+torch-of-liberty,HOLD,1.0,HOLD,0.0,HOLD,0.0,LIBERTY,Torch of Liberty
+adshares,HOLD,2.0,HOLD,1.0,HOLD,0.0,ADS,Adshares
+bouncebit,HOLD,2.0,HOLD,-2.0,HOLD,0.0,BB,BounceBit
+metronome-synth-usd,HOLD,0.0,HOLD,0.0,HOLD,0.0,MSUSD,Metronome Synth USD
+infinifi-locked-iusd-1week,HOLD,0.0,HOLD,0.0,HOLD,0.0,LIUSD,infiniFi Locked iUSD (1week)
+binance-peg-avalanche,BUY,3.0,HOLD,0.0,HOLD,0.0,AVAX,Binance-Peg Avalanche
+uquid-coin,HOLD,0.0,HOLD,-2.0,HOLD,0.0,UQC,Uquid Coin
+midas-mmev,HOLD,1.0,HOLD,0.0,HOLD,0.0,MMEV,Midas mMEV
+hyperlane,HOLD,1.0,HOLD,-2.0,HOLD,0.0,HYPER,Hyperlane
+moonriver,HOLD,2.0,HOLD,-1.0,HOLD,0.0,MOVR,Moonriver
+lucidum,HOLD,0.0,HOLD,0.0,HOLD,0.0,LUCIC,Lucidum
+rujira,BUY,4.0,HOLD,0.0,HOLD,0.0,RUJI,Rujira
+olaxbt,HOLD,1.0,HOLD,0.0,HOLD,0.0,AIO,OlaXBT
+marcopolo,BUY,3.0,BUY,3.0,HOLD,0.0,MAPO,MAP Protocol
+joe,HOLD,2.0,HOLD,-1.0,HOLD,0.0,JOE,JOE
+zerebro,HOLD,1.0,HOLD,0.0,HOLD,0.0,ZEREBRO,Zerebro
+pepecoin-network,HOLD,0.0,HOLD,-2.0,HOLD,0.0,PEP,Pepecoin
+mimatic,HOLD,-1.0,HOLD,1.0,HOLD,0.0,MIMATIC,MAI
+wrapped-core,HOLD,1.0,HOLD,1.0,HOLD,0.0,WCORE,Wrapped CORE
+compound-basic-attention-token,HOLD,1.0,BUY,3.0,HOLD,0.0,CBAT,cBAT
+solv-protocol-solvbtc-jupiter,BUY,3.0,HOLD,2.0,HOLD,0.0,SOLVBTC.JUP,Solv Protocol SolvBTC Jupiter
+restaking-vault-eth,HOLD,-1.0,HOLD,0.0,HOLD,0.0,RSTETH,Restaking Vault ETH
+a-hunters-dream,HOLD,1.0,HOLD,-1.0,HOLD,0.0,CAW,A Hunters Dream
+thena,BUY,3.0,HOLD,1.0,HOLD,0.0,THE,Thena
+spdr-s-p-500-etf-ondo-tokenized-etf,BUY,3.0,HOLD,0.0,HOLD,0.0,SPYON,SPDR S&P 500 ETF (Ondo Tokenized ETF)
+epic-chain,HOLD,2.0,HOLD,0.0,HOLD,0.0,EPIC,Epic Chain
+dusk-network,BUY,4.0,BUY,3.0,HOLD,0.0,DUSK,DUSK
+predictions,HOLD,0.0,HOLD,0.0,HOLD,0.0,PRDT,Predictions
+usdx-money-usdx,HOLD,0.0,HOLD,0.0,HOLD,0.0,USDX,Stables Labs USDX
+resolv,HOLD,1.0,HOLD,-2.0,HOLD,0.0,RESOLV,Resolv
+avail,HOLD,0.0,HOLD,-1.0,HOLD,0.0,AVAIL,Avail
+usdu,HOLD,-1.0,HOLD,0.0,HOLD,0.0,USDU,USDu
+wrapped-zedxion,BUY,5.0,HOLD,2.0,HOLD,0.0,WZEDX,Wrapped Zedxion
+syndicate-3,HOLD,0.0,HOLD,0.0,HOLD,0.0,SYND,Syndicate
+keep-network,HOLD,0.0,HOLD,0.0,HOLD,0.0,KEEP,Keep Network
+boundless,HOLD,0.0,HOLD,0.0,HOLD,0.0,ZKC,Boundless
+pre-sp,HOLD,0.0,HOLD,0.0,HOLD,0.0,PSP,Pre-SP
+diamond-launch,HOLD,-1.0,HOLD,-1.0,HOLD,0.0,DLC,Diverge Loop
+chainflip,HOLD,-2.0,HOLD,-2.0,HOLD,0.0,FLIP,Chainflip
+sophon,HOLD,0.0,HOLD,1.0,HOLD,0.0,SOPH,Sophon
+holoworld,HOLD,1.0,HOLD,0.0,HOLD,0.0,HOLO,Holoworld

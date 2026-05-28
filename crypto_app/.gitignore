@@ -1,0 +1,29 @@
+# Dependencies - This stops the 292MB upload
+node_modules/
+.pnp
+.pnp.js
+
+# IntelliJ & IDE files - Keeps your personal settings off Git
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+out/
+gen/
+
+# Production build
+build/
+dist/
+
+# Local Environment/Secret files
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+coverage/

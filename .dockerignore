@@ -1,0 +1,22 @@
+# Maven / Java
+target
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Logs / temp
+*.log
+
+crypto_app/node_modules
+crypto_app/build
